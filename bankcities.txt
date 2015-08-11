@@ -1,0 +1,1479 @@
+"key" "lat" "long" "size"
+"1" "Abano Terme, Italia" 45.3587173 11.7882998 1
+"2" "Abbadia San Salvatore, Italia" 42.8818151 11.6739316 1
+"3" "Acerenza, Italia" 40.7961502 15.942972 1
+"4" "Acerno, Italia" 40.7371658 15.060466 1
+"5" "Aci Castello, Italia" 37.5557219 15.1444802 5
+"6" "Acireale, Italia" 37.607802 15.166736 5
+"7" "Acquapendente, Italia" 42.7477229 11.8630202 2
+"8" "Acquasparta, Italia" 42.690841 12.5418725 3
+"9" "Acqui Terme, Italia" 44.6763846 8.4670285 2
+"10" "Adria, Italia" 45.0555487 12.0560381 6
+"11" "Adro, Italia" 45.6201335 9.9575541 1
+"12" "Affi, Italia" 45.552506 10.7720528 1
+"13" "Affile, Italia" 41.8859663 13.1009676 1
+"14" "Agira, Italia" 37.6566797 14.5189017 1
+"15" "Agliana, Italia" 43.9004209 10.9999233 1
+"16" "Agordo, Italia" 46.2838939 12.0345018 1
+"17" "Agosta, Italia" 41.9804845 13.0360279 1
+"18" "Agrigento, Italia" 37.3110897 13.5765475 5
+"19" "Agugliaro, Italia" 45.3244267 11.5868166 1
+"20" "Airuno, Italia" 45.7537371 9.4252068 1
+"21" "Ala, Italia" 45.7625639 11.0051732 1
+"22" "Alanno, Italia" 42.296299 13.9677519 1
+"23" "Alassio, Italia" 44.014336 8.1811741 1
+"24" "Alatri, Italia" 41.7252936 13.3412036 1
+"25" "Alba Adriatica, Italia" 42.8270607 13.9293014 3
+"26" "Alba, Italia" 44.7009153 8.0356911 4
+"27" "Albano Laziale, Italia" 41.7284572 12.6589426 1
+"28" "Albavilla, Italia" 45.8029324 9.1880262 1
+"29" "Albenga, Italia" 44.0494254 8.2156113 3
+"30" "Albidona, Italia" 39.9243174 16.4723581 1
+"31" "Albignasego, Italia" 45.3466767 11.8677169 1
+"32" "Albisola Superiore, Italia" 44.3362409 8.5099097 2
+"33" "Albissola Marina, Italia" 44.3263602 8.5012243 1
+"34" "Alessandria, Italia" 44.9072727 8.6116796 33
+"35" "Alfonsine, Italia" 44.5059036 12.0430671 1
+"36" "Alghero, Italia" 40.5579517 8.3192949 6
+"37" "Alife, Italia" 41.3274024 14.3336256 1
+"38" "Aliminusa, Italia" 37.8649836 13.7826639 1
+"39" "Alleghe, Italia" 46.4069654 12.0203957 1
+"40" "Altamura, Italia" 40.8253924 16.5527874 1
+"41" "Altare, Italia" 44.3254635 8.3301638 1
+"42" "Altopascio, Italia" 43.812488 10.6771005 2
+"43" "Alviano, Italia" 42.5910916 12.2978194 1
+"44" "Alvito, Italia" 41.6901439 13.7481929 1
+"45" "Alzano Lombardo, Italia" 45.7293987 9.7241189 1
+"46" "Alzate Brianza, Italia" 45.7694588 9.1824617 2
+"47" "Amatrice, Italia" 42.6280156 13.2924791 1
+"48" "Ameglia, Italia" 44.0676995 9.9555935 1
+"49" "Amelia, Italia" 42.5567718 12.4146361 4
+"50" "Amendolara, Italia" 39.951364 16.5830645 1
+"51" "Anagni, Italia" 41.745324 13.1513636 1
+"52" "Ancona, Italia" 43.6158299 13.518915 32
+"53" "Andora, Italia" 43.9848226 8.1305992 2
+"54" "Andria, Italia" 41.2272519 16.2966406 5
+"55" "Anghiari, Italia" 43.540118 12.0521585 1
+"56" "Antey-Saint-Andrè, Italia" 45.8061785 7.5894555 2
+"57" "Antrodoco, Italia" 42.4210941 13.0804534 1
+"58" "Anzi, Italia" 40.5166516 15.9213008 1
+"59" "Anzio, Italia" 41.4495955 12.6197253 1
+"60" "Anzola dell'Emilia, Italia" 44.5461898 11.1927492 1
+"61" "Aosta, Italia" 45.7388548 7.366692 5
+"62" "Apice, Italia" 41.1194434 14.9311385 1
+"63" "Appiano sulla Strada del Vino, Italia" 46.4745536 11.247903 1
+"64" "Apricena, Italia" 41.7836617 15.4444337 2
+"65" "Aprilia, Italia" 41.5944018 12.6560314 5
+"66" "Arborea, Italia" 39.7734926 8.5823878 1
+"67" "Arbus, Italia" 39.5281843 8.6008037 1
+"68" "Arcevia, Italia" 43.4981302 12.9391003 1
+"69" "Archi, Italia" 42.090201 14.3819886 1
+"70" "Arco, Italia" 45.9178609 10.8855763 1
+"71" "Arcola, Italia" 44.1133609 9.9046 2
+"72" "Arcugnano, Italia" 45.5006119 11.535509 1
+"73" "Arezzo, Italia" 43.4632839 11.8796336 21
+"74" "Argelato, Italia" 44.6447617 11.3447429 1
+"75" "Argenta, Italia" 44.6171421 11.8369081 2
+"76" "Ari, Italia" 42.2862905 14.255458 1
+"77" "Ariano Irpino, Italia" 41.1548934 15.0922763 3
+"78" "Ariccia, Italia" 41.7211083 12.6726413 1
+"79" "Arona, Italia" 45.7586155 8.5581824 1
+"80" "Arquata Scrivia, Italia" 44.6878566 8.8860276 1
+"81" "Arsiero, Italia" 45.8032445 11.355629 1
+"82" "Arvier, Italia" 45.7017558 7.1674473 1
+"83" "Arzachena, Italia" 41.0780118 9.3901541 5
+"84" "Arzignano, Italia" 45.5223525 11.3337046 4
+"85" "Ascoli Piceno, Italia" 42.8536043 13.5749442 15
+"86" "Ascoli Satriano, Italia" 41.2033413 15.5627449 1
+"87" "Asiago, Italia" 45.8758852 11.50962 1
+"88" "Asola, Italia" 45.2201286 10.4130142 2
+"89" "Assago, Italia" 45.4061985 9.1239694 1
+"90" "Assemini, Italia" 39.2915003 8.9977583 1
+"91" "Assisi, Italia" 43.0707017 12.6195966 13
+"92" "Assoro, Italia" 37.6273458 14.4223114 1
+"93" "Asti, Italia" 44.9007512 8.2064257 21
+"94" "Atessa, Italia" 42.071436 14.4511304 4
+"95" "Atina, Italia" 41.6193372 13.8015603 1
+"96" "Attigliano, Italia" 42.5168389 12.292242 1
+"97" "Augusta, Italia" 37.2500684 15.2216971 3
+"98" "Aulla, Italia" 44.2166706 9.9674972 5
+"99" "Auronzo di Cadore, Italia" 46.55097 12.4435915 1
+"100" "Avellino, Italia" 40.914388 14.7906121 6
+"101" "Avezzano, Italia" 42.0281396 13.4255637 3
+"102" "Avigliano Umbro, Italia" 42.6516036 12.429611 2
+"103" "Badia Polesine, Italia" 45.0930208 11.4930559 3
+"104" "Badia, Italia" 46.6091756 11.8941784 2
+"105" "Bagnacavallo, Italia" 44.4197361 11.976675 2
+"106" "Bagnara di Romagna, Italia" 44.3895112 11.8248487 1
+"107" "Bagno a Ripoli, Italia" 43.7522727 11.3196882 1
+"108" "Bagnoli del Trigno, Italia" 41.7024106 14.457392 1
+"109" "Bagnolo Cremasco, Italia" 45.3597256 9.6140621 2
+"110" "Bagnolo in Piano, Italia" 44.7638127 10.6733645 1
+"111" "Bagnolo San Vito, Italia" 45.0923033 10.8781066 1
+"112" "Bagnone, Italia" 44.3146799 9.9945108 2
+"113" "Bagnoregio, Italia" 42.6268809 12.0911537 1
+"114" "Barbarano Vicentino, Italia" 45.409921 11.5395817 1
+"115" "Barberino di Mugello, Italia" 44.0069097 11.2376508 1
+"116" "Barberino Val d'Elsa, Italia" 43.5458744 11.1751075 1
+"117" "Barcellona Pozzo di Gotto, Italia" 38.1472621 15.2128482 1
+"118" "Bardineto, Italia" 44.1906473 8.1352668 1
+"119" "Bardolino, Italia" 45.551817 10.7214679 1
+"120" "Barga, Italia" 44.0756341 10.4822833 1
+"121" "Bari, Italia" 41.1171432 16.8718715 93
+"122" "Baricella, Italia" 44.6452355 11.5311907 1
+"123" "Barletta, Italia" 41.3196635 16.2838207 8
+"124" "Barzio, Italia" 45.9436583 9.4656896 1
+"125" "Baschi, Italia" 42.6693865 12.2163084 1
+"126" "Bassano del Grappa, Italia" 45.7657286 11.7272747 7
+"127" "Bassano Romano, Italia" 42.2205718 12.1880642 1
+"128" "Bastia Umbra, Italia" 43.069059 12.5492451 10
+"129" "Battipaglia, Italia" 40.6093746 14.9808362 2
+"130" "Bazzano, Italia" 42.3368573 13.4535251 1
+"131" "Bellano, Italia" 46.0410379 9.3022046 1
+"132" "Bellante, Italia" 42.741198 13.8081966 3
+"133" "Bellaria-Igea Marina, Italia" 44.1343597 12.4667204 1
+"134" "Bellinzago Lombardo, Italia" 45.5387042 9.4479039 1
+"135" "Bellizzi, Italia" 40.620022 14.9478622 1
+"136" "Belluno, Italia" 46.15484285 12.2322433 3
+"137" "Benevento, Italia" 41.1297613 14.7826208 2
+"138" "Bergamo, Italia" 45.6982642 9.6772698 29
+"139" "Besenello, Italia" 45.9409016 11.1122117 1
+"140" "Bettona, Italia" 43.0115564 12.4863265 3
+"141" "Bevagna, Italia" 42.9372855 12.6092683 2
+"142" "Beverino, Italia" 44.1979804 9.7855919 1
+"143" "Bibbiano, Italia" 44.6641641 10.4735892 1
+"144" "Bibbiena, Italia" 43.694125 11.8158559 4
+"145" "Biella, Italia" 45.5628842 8.0583397 11
+"146" "Bieno, Italia" 46.0804022 11.5543543 1
+"147" "Bientina, Italia" 43.7102847 10.6214085 1
+"148" "Bitonto, Italia" 41.1078251 16.6910569 1
+"149" "Bolano, Italia" 44.1869284 9.8946176 1
+"150" "Bologna, Italia" 44.494887 11.3426163 207
+"151" "Bolsena, Italia" 42.6442035 11.9864377 1
+"152" "Bolzano Vicentino, Italia" 45.6004699 11.6219625 1
+"153" "Bolzano, Italia" 46.4982953 11.3547582 17
+"154" "Bomporto, Italia" 44.7284278 11.041672 1
+"155" "Bonassola, Italia" 44.1821302 9.5835215 1
+"156" "Bondeno, Italia" 44.8862233 11.4230043 1
+"157" "Bordighera, Italia" 43.7806979 7.6722799 1
+"158" "Boretto, Italia" 44.9009472 10.5578961 1
+"159" "Borghetto di Borbera, Italia" 44.7306337 8.9432751 1
+"160" "Borghetto Santo Spirito, Italia" 44.1087504 8.2405346 1
+"161" "Borgio Verezzi, Italia" 44.1590165 8.3102277 1
+"162" "Borgo San Giacomo, Italia" 45.3485464 9.967589 1
+"163" "Borgo San Lorenzo, Italia" 43.9543788 11.3847483 1
+"164" "Borgo Valsugana, Italia" 46.0528053 11.4626055 2
+"165" "Borgo Virgilio, Italia" 45.1136006 10.7827168 1
+"166" "Borgomanero, Italia" 45.6989441 8.4624538 3
+"167" "Borgonovo Val Tidone, Italia" 45.0158427 9.4446698 1
+"168" "Borgorose, Italia" 42.1927685 13.235852 1
+"169" "Borzonasca, Italia" 44.4188525 9.3898896 1
+"170" "Bossolasco, Italia" 44.5275214 8.0506227 1
+"171" "Bovalino, Italia" 38.1512169 16.1694887 1
+"172" "Bovegno, Italia" 45.7901654 10.2683094 1
+"173" "Boville Ernica, Italia" 41.6409254 13.4724486 1
+"174" "Bovolone, Italia" 45.257693 11.1206081 2
+"175" "Bra, Italia" 44.6923429 7.8551164 2
+"176" "Bracciano, Italia" 42.1017979 12.1761422 1
+"177" "Breganze, Italia" 45.708245 11.5574545 2
+"178" "Brescello, Italia" 44.8987694 10.5180777 1
+"179" "Brescia, Italia" 45.5415526 10.2118019 42
+"180" "Bressanone, Italia" 46.7177048 11.6572436 2
+"181" "Bressanvido, Italia" 45.6484339 11.6353839 1
+"182" "Brienza, Italia" 40.4764155 15.627619 1
+"183" "Brignano-Frascata, Italia" 44.8148572 9.0400498 1
+"184" "Brindisi, Italia" 40.6327278 17.9417616 4
+"185" "Bronzolo, Italia" 46.4040482 11.3206416 1
+"186" "Brugnato, Italia" 44.2362753 9.7209853 1
+"187" "Brunico, Italia" 46.7965736 11.9380416 1
+"188" "Bucchianico, Italia" 42.3028059 14.1835605 1
+"189" "Budoni, Italia" 40.7039391 9.7052936 1
+"190" "Budrio, Italia" 44.5388539 11.5360478 1
+"191" "Busnago, Italia" 45.6164655 9.4644206 1
+"192" "Bussi sul Tirino, Italia" 42.2135849 13.8253915 2
+"193" "Bussolengo, Italia" 45.4732537 10.8507277 2
+"194" "Busto Arsizio, Italia" 45.611892 8.8531265 6
+"195" "Buti, Italia" 43.7276334 10.5855947 1
+"196" "Cabella Ligure, Italia" 44.679852 9.1491821 1
+"197" "Cabras, Italia" 39.9290726 8.5305514 1
+"198" "Caccamo, Italia" 37.9313776 13.6652138 1
+"199" "Cagliari, Italia" 39.2238411 9.1216613 44
+"200" "Cairo Montenotte, Italia" 44.4008072 8.2732463 3
+"201" "Calangianus, Italia" 40.9211189 9.1929959 1
+"202" "Calci, Italia" 43.7262346 10.5134513 1
+"203" "Calcinaia, Italia" 43.683762 10.6142337 1
+"204" "Calderara di Reno, Italia" 44.5674806 11.2726182 2
+"205" "Calenzano, Italia" 43.86604 11.1673181 3
+"206" "Calice al Cornoviglio, Italia" 44.2474331 9.8459774 1
+"207" "Calice Ligure, Italia" 44.2045552 8.2948128 1
+"208" "Calizzano, Italia" 44.2426927 8.1115796 2
+"209" "Caltagirone, Italia" 37.2380929 14.5126066 4
+"210" "Caltanissetta, Italia" 37.4901115 14.0628928 6
+"211" "Calusco d'Adda, Italia" 45.6911074 9.4770681 1
+"212" "Caluso, Italia" 45.3022362 7.8896742 1
+"213" "Calvello, Italia" 40.4750232 15.8504991 1
+"214" "Calvene, Italia" 45.7658248 11.5122251 1
+"215" "Calvi dell'Umbria, Italia" 42.4038614 12.5693694 2
+"216" "Calvi, Italia" 41.0738161 14.8673329 1
+"217" "Camaiore, Italia" 43.9421402 10.2969083 2
+"218" "Camastra, Italia" 37.2512842 13.7943005 1
+"219" "Camerana, Italia" 44.4229654 8.1436668 1
+"220" "Camisano Vicentino, Italia" 45.5206995 11.7127488 2
+"221" "Camisano, Italia" 45.4429084 9.7439716 1
+"222" "Campagnola Cremasca, Italia" 45.3982861 9.668764 1
+"223" "Campello sul Clitunno, Italia" 42.8300014 12.7692466 1
+"224" "Campi Bisenzio, Italia" 43.8259774 11.1276471 6
+"225" "Campiglia dei Berici, Italia" 45.3403921 11.5396629 1
+"226" "Campiglia Marittima, Italia" 43.0600884 10.614245 2
+"227" "Campo nell'Elba, Italia" 42.7486833 10.2349299 1
+"228" "Campo Tures, Italia" 46.9195521 11.951966 1
+"229" "Campobasso, Italia" 41.5602544 14.6627161 3
+"230" "Campodarsego, Italia" 45.5015196 11.906657 1
+"231" "Campogalliano, Italia" 44.6917626 10.8448554 2
+"232" "Camporgiano, Italia" 44.1572028 10.3348533 1
+"233" "Camposanto, Italia" 44.7903098 11.1368234 1
+"234" "Canazei, Italia" 46.4767783 11.7703649 1
+"235" "Canino, Italia" 42.466403 11.750676 1
+"236" "Cannara, Italia" 42.9919438 12.582354 2
+"237" "Cantalice, Italia" 42.4670895 12.9044764 1
+"238" "Cantalupo in Sabina, Italia" 42.3058988 12.6449352 1
+"239" "Capalbio, Italia" 42.4533873 11.4237003 2
+"240" "Capannoli, Italia" 43.5832755 10.6806499 1
+"241" "Capannori, Italia" 43.8418933 10.5733254 10
+"242" "Capena, Italia" 42.1409078 12.5394045 1
+"243" "Capergnanica, Italia" 45.3379028 9.6440932 2
+"244" "Capestrano, Italia" 42.2674591 13.7677484 1
+"245" "Capoliveri, Italia" 42.747237 10.3797549 1
+"246" "Capoterra, Italia" 39.1788863 8.9709827 1
+"247" "Capraia Isola, Italia" 43.0377826 9.8180732 1
+"248" "Capralba, Italia" 45.4450865 9.6447924 1
+"249" "Capranica, Italia" 42.2595445 12.1746311 1
+"250" "Caprarola, Italia" 42.3272312 12.2387494 1
+"251" "Caprino Veronese, Italia" 45.6061839 10.7948268 1
+"252" "Caramanico Terme, Italia" 42.1611118 14.0085976 1
+"253" "Carassai, Italia" 43.0317364 13.6848402 1
+"254" "Caravaggio, Italia" 45.4973992 9.6436013 2
+"255" "Carbognano, Italia" 42.3283429 12.2624054 1
+"256" "Carbonia, Italia" 39.1644281 8.5228853 1
+"257" "Carcare, Italia" 44.3584369 8.2885486 2
+"258" "Carloforte, Italia" 39.140126 8.3029808 1
+"259" "Carmignano di Brenta, Italia" 45.6290158 11.702301 1
+"260" "Carmignano, Italia" 43.8143184 11.0194817 4
+"261" "Carpi, Italia" 44.7838779 10.8796629 10
+"262" "Carpino, Italia" 41.844893 15.8582393 2
+"263" "Carrara, Italia" 44.0793245 10.097677 14
+"264" "Carsoli, Italia" 42.1003467 13.0894267 1
+"265" "Cartoceto, Italia" 43.7645992 12.8832545 1
+"266" "Carzano, Italia" 46.0701341 11.4935921 1
+"267" "Casalbordino, Italia" 42.1506327 14.5847248 1
+"268" "Casale Cremasco-Vidolasco, Italia" 45.4334418 9.7132007 1
+"269" "Casale Monferrato, Italia" 45.1316088 8.450503 6
+"270" "Casale sul Sile, Italia" 45.597569 12.3256106 1
+"271" "Casalecchio di Reno, Italia" 44.4782469 11.2773797 3
+"272" "Casaletto Ceredano, Italia" 45.3178737 9.6182054 1
+"273" "Casaletto Vaprio, Italia" 45.4077769 9.626899 1
+"274" "Casalgrande, Italia" 44.5880006 10.7375449 1
+"275" "Casalmaggiore, Italia" 44.9883089 10.4196194 2
+"276" "Casalnoceto, Italia" 44.9133642 8.9818289 1
+"277" "Casalvieri, Italia" 41.63297 13.7136229 1
+"278" "Casarano, Italia" 40.0113573 18.1614311 2
+"279" "Casargo, Italia" 46.0414629 9.3893356 1
+"280" "Cascia, Italia" 42.7169225 13.0119073 1
+"281" "Casciana Terme Lari, Italia" 43.565336 10.5915754 1
+"282" "Cascina, Italia" 43.6759139 10.5558967 5
+"283" "Caserta, Italia" 41.0723484 14.3311337 11
+"284" "Casola in Lunigiana, Italia" 44.2001796 10.1754775 1
+"285" "Casoli, Italia" 42.1132149 14.2924627 2
+"286" "Cassano d'Adda, Italia" 45.526634 9.5140979 1
+"287" "Cassino, Italia" 41.4907889 13.8333776 2
+"288" "Cassola, Italia" 45.734003 11.7989299 2
+"289" "Castagnaro, Italia" 45.1203743 11.4109948 1
+"290" "Castagneto Carducci, Italia" 43.1597294 10.6117125 2
+"291" "Castel Bolognese, Italia" 44.3212615 11.7954257 2
+"292" "Castel Condino, Italia" 45.914611 10.6023207 1
+"293" "Castel del Piano, Italia" 42.8886343 11.5357849 1
+"294" "Castel di Sangro, Italia" 41.7839906 14.1080323 1
+"295" "Castel Frentano, Italia" 42.1950675 14.3578056 1
+"296" "Castel Giorgio, Italia" 42.7078199 11.9793969 1
+"297" "Castel Maggiore, Italia" 44.5751652 11.3637308 1
+"298" "Castel Ritaldi, Italia" 42.8218253 12.6745192 1
+"299" "Castel San Giovanni, Italia" 45.0571093 9.4371438 1
+"300" "Castel Sant'Elia, Italia" 42.2485253 12.3657185 1
+"301" "Castel Viscardo, Italia" 42.7556992 12.0027351 1
+"302" "Castelfiorentino, Italia" 43.6041852 10.9697129 2
+"303" "Castelfranco Emilia, Italia" 44.5951111 11.0522393 2
+"304" "Castelfranco Veneto, Italia" 45.6716942 11.9282388 6
+"305" "Castelguglielmo, Italia" 45.0253859 11.5385073 1
+"306" "Castell'Alfero, Italia" 44.9812266 8.2080036 2
+"307" "Castellanza, Italia" 45.6053912 8.8915002 3
+"308" "Castellarano, Italia" 44.5132514 10.7331623 1
+"309" "Castelli Calepio, Italia" 45.6143964 9.8908546 2
+"310" "Castello d'Argile, Italia" 44.6800033 11.2952663 2
+"311" "Castello di Serravalle, Italia" 44.4384404 11.0312724 1
+"312" "Castello Tesino, Italia" 46.0609294 11.6345991 1
+"313" "Castelluccio Valmaggiore, Italia" 41.3421455 15.2011711 1
+"314" "Castelnovo di Sotto, Italia" 44.8130762 10.5622648 1
+"315" "Castelnuovo del Garda, Italia" 45.4413794 10.7582149 1
+"316" "Castelnuovo di Garfagnana, Italia" 44.1094753 10.4135465 2
+"317" "Castelnuovo Magra, Italia" 44.1015853 10.0174276 2
+"318" "Castelnuovo Rangone, Italia" 44.5490278 10.9390215 2
+"319" "Castelnuovo Scrivia, Italia" 44.9807693 8.8810792 1
+"320" "Castelraimondo, Italia" 43.207143 13.0574316 1
+"321" "Castelrotto, Italia" 46.5681349 11.5639653 1
+"322" "Castelsardo, Italia" 40.913692 8.708592 1
+"323" "Castelvetrano, Italia" 37.6778705 12.7915383 1
+"324" "Castelvetro di Modena, Italia" 44.5041498 10.9457811 1
+"325" "Castiglione a Casauria, Italia" 42.236227 13.8942033 1
+"326" "Castiglione del Lago, Italia" 43.1264498 12.0478399 3
+"327" "Castiglione della Pescaia, Italia" 42.7638947 10.8750204 2
+"328" "Castiglione delle Stiviere, Italia" 45.3873983 10.4829578 2
+"329" "Castiglione in Teverina, Italia" 42.6534315 12.1918637 1
+"330" "Castro dei Volsci, Italia" 41.5077006 13.4055372 1
+"331" "Catania, Italia" 37.5078772 15.0830304 87
+"332" "Catanzaro, Italia" 38.9097919 16.5876516 15
+"333" "Catenanuova, Italia" 37.570955 14.6918771 1
+"334" "Catignano, Italia" 42.3451645 13.9453788 1
+"335" "Cattolica, Italia" 43.963318 12.7384318 2
+"336" "Cava de' Tirreni, Italia" 40.6960004 14.7107421 4
+"337" "Cavalese, Italia" 46.2912024 11.4605662 1
+"338" "Cavallino, Italia" 40.3111621 18.2015275 2
+"339" "Cavareno, Italia" 46.4070915 11.1368682 1
+"340" "Cavarzere, Italia" 45.1304993 12.0805843 3
+"341" "Cavezzo, Italia" 44.8408805 11.0244049 1
+"342" "Ceccano, Italia" 41.5698647 13.336405 1
+"343" "Cecina, Italia" 43.30853 10.5188593 3
+"344" "Celano, Italia" 42.0822512 13.5429874 1
+"345" "Celenza sul Trigno, Italia" 41.8733714 14.578892 1
+"346" "Celle Ligure, Italia" 44.3488663 8.5336525 2
+"347" "Cellere, Italia" 42.511464 11.7747498 1
+"348" "Cengio, Italia" 44.3917793 8.1971064 3
+"349" "Centallo, Italia" 44.5008816 7.5844936 1
+"350" "Cento, Italia" 44.7315319 11.2908156 8
+"351" "Cepagatti, Italia" 42.3656641 14.0723139 1
+"352" "Cerea, Italia" 45.1931241 11.210085 1
+"353" "Ceriale, Italia" 44.0969663 8.2319789 1
+"354" "Cerignola, Italia" 41.2656592 15.8939163 1
+"355" "Cerreto d'Esi, Italia" 43.3240955 12.9881823 2
+"356" "Cerreto di Spoleto, Italia" 42.8215544 12.9181991 1
+"357" "Certaldo, Italia" 43.5476586 11.0415461 1
+"358" "Cervia, Italia" 44.2635492 12.3476822 10
+"359" "Cesena, Italia" 44.1396438 12.2464292 6
+"360" "Cesenatico, Italia" 44.200847 12.4052023 4
+"361" "Ceto, Italia" 46.0022944 10.3516251 1
+"362" "Ceva, Italia" 44.3862535 8.0290794 2
+"363" "Chambave, Italia" 45.7442894 7.5480683 1
+"364" "Charvensod, Italia" 45.7202969 7.3241627 1
+"365" "Chatillon, Italia" 45.7485816 7.6128015 1
+"366" "Chianciano Terme, Italia" 43.0443444 11.8137616 4
+"367" "Chianni, Italia" 43.4856354 10.64194 1
+"368" "Chiaravalle, Italia" 43.5989398 13.3252116 1
+"369" "Chiaromonte, Italia" 40.124099 16.2164498 1
+"370" "Chiavari, Italia" 44.3168416 9.3199822 1
+"371" "Chieti, Italia" 42.347886 14.1635845 9
+"372" "Chieve, Italia" 45.3403107 9.6146946 1
+"373" "Chioggia, Italia" 45.2198654 12.2790144 9
+"374" "Chivasso, Italia" 45.1900384 7.888952 5
+"375" "Cicagna, Italia" 44.4092273 9.2380064 1
+"376" "Cimego, Italia" 45.9117544 10.6134314 1
+"377" "Cinisello Balsamo, Italia" 45.5583553 9.2143838 2
+"378" "Cinisi, Italia" 38.155087 13.1088097 2
+"379" "Cinte Tesino, Italia" 46.0564945 11.6151081 1
+"380" "Cisano sul Neva, Italia" 44.08495 8.1502433 1
+"381" "Cisterna di Latina, Italia" 41.5889412 12.8296115 1
+"382" "Citerna, Italia" 43.4980125 12.1178459 2
+"383" "Città della Pieve, Italia" 42.9535412 12.0045327 1
+"384" "Città di Castello, Italia" 43.4639783 12.2404869 17
+"385" "Città Sant'Angelo, Italia" 42.5176481 14.060208 2
+"386" "Cittadella, Italia" 45.648826 11.7836431 4
+"387" "Cittaducale, Italia" 42.3885051 12.9516069 1
+"388" "Cittanova, Italia" 38.3537268 16.0772143 1
+"389" "Cividale del Friuli, Italia" 46.0961711 13.4292014 1
+"390" "Civita Castellana, Italia" 42.2891482 12.4143169 2
+"391" "Civitanova Marche, Italia" 43.3048492 13.7218351 10
+"392" "Civitaquana, Italia" 42.3254173 13.9014323 1
+"393" "Civitavecchia, Italia" 42.0924239 11.7954132 1
+"394" "Civitella Casanova, Italia" 42.3641505 13.8846556 1
+"395" "Civitella Paganico, Italia" 42.9308111 11.2681801 1
+"396" "Civitella Roveto, Italia" 41.9136454 13.4286243 1
+"397" "Cles, Italia" 46.3645084 11.0355046 2
+"398" "Codigoro, Italia" 44.8299553 12.1070074 1
+"399" "Cogne, Italia" 45.6076215 7.359093 1
+"400" "Cogoleto, Italia" 44.3894205 8.6469711 1
+"401" "Cogollo del Cengio, Italia" 45.7885689 11.413588 1
+"402" "Collazzone, Italia" 42.9036908 12.4347982 1
+"403" "Colle di Val d'Elsa, Italia" 43.4199639 11.1272064 1
+"404" "Collecchio, Italia" 44.7520042 10.21645 1
+"405" "Collecorvino, Italia" 42.458406 14.0165269 1
+"406" "Collegno, Italia" 45.0787054 7.566241 1
+"407" "Collesalvetti, Italia" 43.5915707 10.4756991 5
+"408" "Colletorto, Italia" 41.6633657 14.970859 1
+"409" "Colli del Tronto, Italia" 42.877085 13.7473724 1
+"410" "Colobraro, Italia" 40.1864158 16.4268543 2
+"411" "Cologno Monzese, Italia" 45.528603 9.2787075 1
+"412" "Comacchio, Italia" 44.6940053 12.1793532 3
+"413" "Comezzano-Cizzago, Italia" 45.4649496 9.9525599 1
+"414" "Comiso, Italia" 36.947379 14.6036774 3
+"415" "Como, Italia" 45.8080597 9.0851765 6
+"416" "Comunanza, Italia" 42.9546532 13.4120389 1
+"417" "Concesio, Italia" 45.5998218 10.22268 1
+"418" "Conco, Italia" 45.798389 11.605658 1
+"419" "Concordia sulla Secchia, Italia" 44.9138663 10.9858855 2
+"420" "Concorezzo, Italia" 45.5932673 9.3322573 1
+"421" "Condino, Italia" 45.8894585 10.5997701 1
+"422" "Conegliano, Italia" 45.889197 12.3006368 4
+"423" "Conselice, Italia" 44.5151005 11.8285289 2
+"424" "Conselve, Italia" 45.2314331 11.8741987 1
+"425" "Contigliano, Italia" 42.4106812 12.7665527 1
+"426" "Copparo, Italia" 44.8933268 11.8306888 1
+"427" "Corato, Italia" 41.1534886 16.4131601 1
+"428" "Corbola, Italia" 45.0090741 12.0800623 1
+"429" "Corciano, Italia" 43.1237872 12.2892596 3
+"430" "Corfinio, Italia" 42.1219109 13.8403907 1
+"431" "Coriano, Italia" 43.9638909 12.603362 1
+"432" "Corigliano d'Otranto, Italia" 40.1611666 18.2566556 1
+"433" "Corleto Perticara, Italia" 40.3804399 16.0415403 1
+"434" "Cornate d'Adda, Italia" 45.647793 9.46554 1
+"435" "Correggio, Italia" 44.7708574 10.7819083 2
+"436" "Corridonia, Italia" 43.2502078 13.513169 1
+"437" "Cortemilia, Italia" 44.5807583 8.1922088 2
+"438" "Cortenova, Italia" 46.0000625 9.3823473 1
+"439" "Cortina d'Ampezzo, Italia" 46.5404711 12.1356524 2
+"440" "Cosenza, Italia" 39.2982629 16.2537357 11
+"441" "Cossato, Italia" 45.5668371 8.175544 3
+"442" "Costa Masnaga, Italia" 45.7656615 9.2761754 1
+"443" "Costermano, Italia" 45.5858343 10.7432813 2
+"444" "Costigliole d'Asti, Italia" 44.7865808 8.1821367 3
+"445" "Cotignola, Italia" 44.3835304 11.9434179 2
+"446" "Cottanello, Italia" 42.408797 12.6872438 1
+"447" "Courmayeur, Italia" 45.7969221 6.9689626 1
+"448" "Credera Rubbiano, Italia" 45.3046162 9.6566217 2
+"449" "Crema, Italia" 45.3643375 9.6824841 14
+"450" "Cremona, Italia" 45.133249 10.0226511 9
+"451" "Cremosano, Italia" 45.394651 9.6394388 1
+"452" "Crespellano, Italia" 44.5143919 11.1290632 1
+"453" "Crespina Lorenzana, Italia" 43.5688951 10.5626775 1
+"454" "Crespina, Italia" 43.6183601 10.5408622 1
+"455" "Crevalcore, Italia" 44.7200288 11.148594 1
+"456" "Crotone, Italia" 39.0807932 17.1271102 5
+"457" "Cugnoli, Italia" 42.3065572 13.9325043 1
+"458" "Cumiana, Italia" 44.9849797 7.3742203 1
+"459" "Cuneo, Italia" 44.3844766 7.5426711 4
+"460" "Cupello, Italia" 42.0721937 14.6708107 1
+"461" "Cupra Marittima, Italia" 43.0265271 13.8581917 1
+"462" "Cupramontana, Italia" 43.4458495 13.1154335 1
+"463" "Curtatone, Italia" 45.1531176 10.7148771 1
+"464" "Cutigliano, Italia" 44.1014499 10.7543315 1
+"465" "Darfo Boario Terme, Italia" 45.8815885 10.1877542 1
+"466" "Dasà, Italia" 38.5657294 16.1955895 1
+"467" "Decimomannu, Italia" 39.3112473 8.9662188 1
+"468" "Dego, Italia" 44.4476893 8.3132487 1
+"469" "Deiva Marina, Italia" 44.2159951 9.5153101 1
+"470" "Delebio, Italia" 46.1376566 9.4653011 1
+"471" "Deruta, Italia" 42.9808942 12.421785 6
+"472" "Desenzano del Garda, Italia" 45.4714531 10.5333351 2
+"473" "Desio, Italia" 45.6186654 9.2076935 3
+"474" "Dimaro, Italia" 46.3256888 10.8746282 1
+"475" "Dobbiaco, Italia" 46.7355363 12.2213768 1
+"476" "Doberdò del Lago, Italia" 45.8433866 13.5394059 1
+"477" "Dolianova, Italia" 39.3772093 9.1757921 1
+"478" "Domodossola, Italia" 46.113222 8.2919754 2
+"479" "Dorgali, Italia" 40.2891321 9.5913234 1
+"480" "Dosolo, Italia" 44.953004 10.6349739 1
+"481" "Dueville, Italia" 45.6355065 11.5488448 2
+"482" "Eboli, Italia" 40.6179234 15.0564332 2
+"483" "Egna, Italia" 46.3115896 11.272514 1
+"484" "Elmas, Italia" 39.2679627 9.0485137 1
+"485" "Empoli, Italia" 43.7178919 10.9477782 4
+"486" "Enna, Italia" 37.5655551 14.2751913 1
+"487" "Erba, Italia" 45.8116198 9.2267284 2
+"488" "Erice, Italia" 38.0380892 12.5873511 1
+"489" "Esine, Italia" 45.9256174 10.2493838 1
+"490" "Eupilio, Italia" 45.8159584 9.2642612 1
+"491" "Fabriano, Italia" 43.3392143 12.9006655 7
+"492" "Fabrica di Roma, Italia" 42.3347553 12.2949282 1
+"493" "Fabro, Italia" 42.8725104 12.0165454 1
+"494" "Faenza, Italia" 44.2898527 11.8774091 10
+"495" "Fai della Paganella, Italia" 46.1782815 11.0693311 1
+"496" "Faicchio, Italia" 41.2786529 14.4805823 2
+"497" "Falerone, Italia" 43.1056819 13.4702613 1
+"498" "Fanano, Italia" 44.207978 10.7969832 1
+"499" "Fano, Italia" 43.8398164 13.0194201 2
+"500" "Fara Filiorum Petri, Italia" 42.2473222 14.1842514 1
+"501" "Fara in Sabina, Italia" 42.2092663 12.7293035 2
+"502" "Fara San Martino, Italia" 42.090479 14.2085751 1
+"503" "Fara Vicentino, Italia" 45.7380668 11.5449025 1
+"504" "Farindola, Italia" 42.4440867 13.8199887 1
+"505" "Favignana, Italia" 37.9310758 12.3286129 2
+"506" "Feltre, Italia" 46.0178511 11.9005837 2
+"507" "Fenis, Italia" 45.7330667 7.4969209 1
+"508" "Fénis, Italia" 45.7330667 7.4969209 1
+"509" "Ferentillo, Italia" 42.6204432 12.7843831 1
+"510" "Ferentino, Italia" 41.6956788 13.2577285 1
+"511" "Fermignano, Italia" 43.6750386 12.6483884 2
+"512" "Fermo, Italia" 43.1588734 13.7200884 9
+"513" "Ferrandina, Italia" 40.4984557 16.4570531 1
+"514" "Ferrara, Italia" 44.8381237 11.619787 15
+"515" "Fiano Romano, Italia" 42.1702573 12.5922521 2
+"516" "Fiè allo Sciliar, Italia" 46.517311 11.5047447 1
+"517" "Fiera di Primiero, Italia" 46.1757686 11.8283805 1
+"518" "Fiesso Umbertiano, Italia" 44.9616762 11.6075202 1
+"519" "Filottrano, Italia" 43.4381594 13.3553194 2
+"520" "Finale Emilia, Italia" 44.8324577 11.2911601 4
+"521" "Finale Ligure, Italia" 44.1689028 8.3416211 4
+"522" "Fiorano Modenese, Italia" 44.53197 10.828492 1
+"523" "Fiorenzuola d'Arda, Italia" 44.9278495 9.9131456 1
+"524" "Firenze, Italia" 43.7695604 11.2558136 230
+"525" "Fiscaglia, Italia" 44.797977 11.9710739 1
+"526" "Fiuggi, Italia" 41.8002398 13.2242691 1
+"527" "Fiumicino, Italia" 41.7735409 12.2397117 1
+"528" "Fivizzano, Italia" 44.2382456 10.1271607 3
+"529" "Foggia, Italia" 41.4621984 15.5446302 25
+"530" "Foglianise, Italia" 41.166939 14.6650855 1
+"531" "Folignano, Italia" 42.8205072 13.6336304 2
+"532" "Foligno, Italia" 42.9508683 12.7014749 29
+"533" "Follo, Italia" 44.1677921 9.8461846 2
+"534" "Follonica, Italia" 42.9226887 10.7593003 2
+"535" "Fondi, Italia" 41.359119 13.4265681 6
+"536" "Fondo, Italia" 46.4365458 11.1401368 1
+"537" "Fontana Liri, Italia" 41.6207046 13.5474021 1
+"538" "Fonte Nuova, Italia" 42.0007542 12.6319242 2
+"539" "Fonzaso, Italia" 46.0166432 11.8007798 1
+"540" "Forano, Italia" 42.2952897 12.5951416 1
+"541" "Forlì, Italia" 44.2227398 12.0407312 7
+"542" "Formia, Italia" 41.2559961 13.6068672 1
+"543" "Formigine, Italia" 44.5727786 10.84784 2
+"544" "Forte dei Marmi, Italia" 43.9579617 10.1672792 1
+"545" "Fosdinovo, Italia" 44.1324547 10.0172472 2
+"546" "Fossacesia, Italia" 42.2440575 14.480186 1
+"547" "Fossano, Italia" 44.552479 7.7217934 1
+"548" "Fossato di Vico, Italia" 43.2982491 12.7625847 2
+"549" "Fossombrone, Italia" 43.6886585 12.8033192 1
+"550" "Francavilla al Mare, Italia" 42.415183 14.2988085 4
+"551" "Francavilla in Sinni, Italia" 40.0801279 16.2027148 3
+"552" "Francica, Italia" 38.619462 16.1006386 1
+"553" "Fratta Todina, Italia" 42.8579325 12.3634455 1
+"554" "Frosinone, Italia" 41.6396009 13.3426341 11
+"555" "Fucecchio, Italia" 43.727867 10.806722 2
+"556" "Fusignano, Italia" 44.46693 11.9639565 1
+"557" "Gabicce Mare, Italia" 43.9667524 12.7565284 1
+"558" "Gaeta, Italia" 41.2107299 13.5714285 1
+"559" "Gagliano Castelferrato, Italia" 37.7107631 14.5347167 1
+"560" "Gagliole, Italia" 43.2391087 13.0680789 1
+"561" "Galatina, Italia" 40.1758228 18.1724756 2
+"562" "Galbiate, Italia" 45.8164793 9.376957 1
+"563" "Gallarate, Italia" 45.6623632 8.7921269 3
+"564" "Galliera, Italia" 44.7482582 11.3941147 1
+"565" "Gallipoli, Italia" 40.0558508 17.9926137 3
+"566" "Garbagna, Italia" 44.7790307 8.995321 1
+"567" "Garda, Italia" 45.5771011 10.7055676 1
+"568" "Gardone Val Trompia, Italia" 45.6889709 10.18562 1
+"569" "Garessio, Italia" 44.2038199 8.0142285 1
+"570" "Gavardo, Italia" 45.5848291 10.4418793 2
+"571" "Gavi, Italia" 44.6880915 8.8037472 1
+"572" "Gela, Italia" 37.0741526 14.2403537 2
+"573" "Genga, Italia" 43.4291392 12.935166 1
+"574" "Genova, Italia" 44.4056499 8.946256 204
+"575" "Gerace, Italia" 38.2720214 16.2217871 1
+"576" "Ghedi, Italia" 45.406043 10.2755113 1
+"577" "Ghilarza, Italia" 40.1243002 8.8383434 1
+"578" "Giacciano con Baruchella, Italia" 45.0544522 11.437812 1
+"579" "Giano dell'Umbria, Italia" 42.8363211 12.5871807 1
+"580" "Ginosa, Italia" 40.5774031 16.7558078 1
+"581" "Gioia del Colle, Italia" 40.7990706 16.9221587 1
+"582" "Giove, Italia" 42.5106975 12.3342553 1
+"583" "Gissi, Italia" 42.0194109 14.5445145 1
+"584" "Giulianova, Italia" 42.7538138 13.9665051 5
+"585" "Goito, Italia" 45.2517057 10.6660831 2
+"586" "Gombito, Italia" 45.2613767 9.7301621 1
+"587" "Gonnosfanadiga, Italia" 39.4960333 8.6629699 1
+"588" "Gonzaga, Italia" 44.9525147 10.8227418 1
+"589" "Gorgoglione, Italia" 40.3951477 16.1423999 1
+"590" "Gorgonzola, Italia" 45.5307573 9.4054483 1
+"591" "Gorizia, Italia" 45.9401812 13.6201754 2
+"592" "Goro, Italia" 44.8533376 12.2970671 1
+"593" "Graffignano, Italia" 42.576312 12.1982969 1
+"594" "Granarolo dell'Emilia, Italia" 44.5529167 11.4449341 2
+"595" "Granze, Italia" 45.1566151 11.7142945 2
+"596" "Grassano, Italia" 40.6327329 16.2857216 1
+"597" "Gravellona Toce, Italia" 45.9283201 8.4324551 2
+"598" "Gravina in Puglia, Italia" 40.8171447 16.418512 1
+"599" "Gressan, Italia" 45.7214451 7.2898939 2
+"600" "Grinzane Cavour, Italia" 44.6533674 7.9922336 1
+"601" "Grosseto, Italia" 42.7635254 11.1123634 12
+"602" "Grottaminarda, Italia" 41.0726871 15.0623317 1
+"603" "Grottammare, Italia" 42.9853425 13.8683671 3
+"604" "Grottazzolina, Italia" 43.1155897 13.6076321 1
+"605" "Grotte di Castro, Italia" 42.6718582 11.8671823 1
+"606" "Grotte, Italia" 37.4026433 13.7011401 1
+"607" "Grugliasco, Italia" 45.0660632 7.5789103 1
+"608" "Gualdo Cattaneo, Italia" 42.9120496 12.5561934 1
+"609" "Gualdo Tadino, Italia" 43.234139 12.7822413 7
+"610" "Gualtieri, Italia" 44.9004881 10.6313756 2
+"611" "Guardea, Italia" 42.62764 12.2962788 1
+"612" "Guardiagrele, Italia" 42.1898146 14.2199462 1
+"613" "Guastalla, Italia" 44.9212351 10.6543959 2
+"614" "Gubbio, Italia" 43.3513193 12.5753166 6
+"615" "Guglionesi, Italia" 41.9134031 14.9138988 1
+"616" "Guidizzolo, Italia" 45.3201372 10.5781756 1
+"617" "Guidonia Montecelio, Italia" 41.9939694 12.7245045 6
+"618" "Guiglia, Italia" 44.4265324 10.9579486 1
+"619" "Guspini, Italia" 39.5393102 8.6273344 1
+"620" "Gussago, Italia" 45.5876305 10.1533423 1
+"621" "Iglesias, Italia" 39.3106447 8.5366236 1
+"622" "Imola, Italia" 44.3599996 11.7124294 18
+"623" "Imperia, Italia" 43.8896857 8.039517 4
+"624" "Inverigo, Italia" 45.7403448 9.2236375 1
+"625" "Inzago, Italia" 45.5408161 9.4808277 1
+"626" "Iseo, Italia" 45.657081 10.0523552 1
+"627" "Isernia, Italia" 41.5960411 14.2331612 2
+"628" "Isola del Liri, Italia" 41.6773452 13.5748708 1
+"629" "Isola Sant'Antonio, Italia" 45.0322974 8.8479032 1
+"630" "Itri, Italia" 41.2904367 13.5321628 1
+"631" "Ittiri, Italia" 40.5941731 8.5660636 1
+"632" "Ivrea, Italia" 45.4672764 7.8800589 5
+"633" "Izano, Italia" 45.3550702 9.7547927 2
+"634" "Jesi, Italia" 43.5270861 13.2463797 15
+"635" "Jesolo, Italia" 45.5334198 12.6438498 1
+"636" "L'Aquila, Italia" 42.3498479 13.3995091 16
+"637" "La Loggia, Italia" 44.956775 7.6673332 1
+"638" "La Maddalena, Italia" 41.2165538 9.4047122 1
+"639" "La Salle, Italia" 45.7470946 7.0691885 1
+"640" "La Spezia, Italia" 44.1024504 9.8240826 34
+"641" "La Thuile, Italia" 45.7168525 6.9486863 1
+"642" "Ladispoli, Italia" 41.9498965 12.0761045 1
+"643" "Laigueglia, Italia" 43.9783918 8.1579376 1
+"644" "Laives, Italia" 46.4271136 11.3372914 1
+"645" "Lajatico, Italia" 43.4757758 10.7286715 1
+"646" "Lama dei Peligni, Italia" 42.0435209 14.1882502 1
+"647" "Lama Mocogno, Italia" 44.3047867 10.7252868 1
+"648" "Lamezia Terme, Italia" 38.962912 16.3092719 1
+"649" "Lamon, Italia" 46.0452153 11.7481908 1
+"650" "Lana, Italia" 46.6115909 11.1629537 1
+"651" "Lanciano, Italia" 42.22655 14.3890227 6
+"652" "Lanusei, Italia" 39.8788163 9.5412462 1
+"653" "Lari, Italia" 43.565336 10.5915754 2
+"654" "Latiano, Italia" 40.5516133 17.7174974 1
+"655" "Latina, Italia" 41.4675671 12.9035965 22
+"656" "Laurenzana, Italia" 40.459496 15.9698783 1
+"657" "Lauria, Italia" 40.0511927 15.8387147 1
+"658" "Laurino, Italia" 40.3362096 15.3356982 1
+"659" "Lavagna, Italia" 44.3085856 9.3418012 2
+"660" "Lavello, Italia" 41.0482276 15.7886489 1
+"661" "Lavis, Italia" 46.1408423 11.1124935 2
+"662" "Lazise, Italia" 45.5060202 10.7350716 1
+"663" "Lecce, Italia" 40.3515155 18.1750161 27
+"664" "Lecco, Italia" 45.8565698 9.3976704 1
+"665" "Ledro, Italia" 45.8765359 10.7321478 1
+"666" "Legnago, Italia" 45.1935965 11.303213 5
+"667" "Legnano, Italia" 45.5983403 8.9142485 7
+"668" "Lendinara, Italia" 45.0838734 11.5991847 2
+"669" "Lenola, Italia" 41.4091239 13.4586875 1
+"670" "Leonessa, Italia" 42.5660721 12.962445 1
+"671" "Lerici, Italia" 44.0756332 9.9169337 3
+"672" "Lettomanoppello, Italia" 42.2361439 14.0361527 1
+"673" "Levanto, Italia" 44.1686141 9.610654 1
+"674" "Levico Terme, Italia" 46.013024 11.2977599 1
+"675" "Licata, Italia" 37.1017094 13.9373306 1
+"676" "Licciana Nardi, Italia" 44.2653695 10.0391107 2
+"677" "Lignano Sabbiadoro, Italia" 45.6685554 13.1040857 3
+"678" "Lipomo, Italia" 45.7954397 9.1254432 1
+"679" "Lissone, Italia" 45.6130379 9.242569 2
+"680" "Livorno, Italia" 43.548473 10.3105674 57
+"681" "Lizzano in Belvedere, Italia" 44.1645688 10.890991 1
+"682" "Loano, Italia" 44.1306408 8.2609671 2
+"683" "Lodi, Italia" 45.3097228 9.503716 11
+"684" "Lodrino, Italia" 45.7152795 10.2799463 1
+"685" "Lomaso, Italia" 46.0134794 10.8693579 2
+"686" "Longarone, Italia" 46.2723568 12.3005812 1
+"687" "Lonigo, Italia" 45.3882751 11.3878624 2
+"688" "Loreo, Italia" 45.0624917 12.1864137 2
+"689" "Loreto Aprutino, Italia" 42.4331851 13.986668 2
+"690" "Loria, Italia" 45.7293773 11.8656531 1
+"691" "Lubriano, Italia" 42.6365579 12.1100392 1
+"692" "Lucca, Italia" 43.8376211 10.4950609 17
+"693" "Luco dei Marsi, Italia" 41.9613606 13.4687649 1
+"694" "Lugnano in Teverina, Italia" 42.5751653 12.3320847 1
+"695" "Lugo, Italia" 44.4218314 11.9116835 11
+"696" "Lumezzane, Italia" 45.6474809 10.2654082 1
+"697" "Lusia, Italia" 45.1005374 11.6641125 2
+"698" "Luzzara, Italia" 44.9608583 10.6887692 1
+"699" "Macerata, Italia" 43.2984268 13.4534767 7
+"700" "Macomer, Italia" 40.2662245 8.777309 1
+"701" "Madignano, Italia" 45.3442059 9.7298053 2
+"702" "Magione, Italia" 43.1421257 12.203915 7
+"703" "Magliano Alpi, Italia" 44.465674 7.8230058 1
+"704" "Magliano de' Marsi, Italia" 42.0918418 13.3649154 1
+"705" "Magliano in Toscana, Italia" 42.6417543 11.2297105 2
+"706" "Maierato, Italia" 38.7064306 16.1922844 1
+"707" "Maiolati Spontini, Italia" 43.4744199 13.1148347 1
+"708" "Malalbergo, Italia" 44.7179078 11.5297213 2
+"709" "Malè, Italia" 46.3529816 10.9129136 1
+"710" "Mallare, Italia" 44.2915443 8.294285 1
+"711" "Malles Venosta, Italia" 46.6863988 10.5514095 1
+"712" "Malo, Italia" 45.6554411 11.3977264 1
+"713" "Malonno, Italia" 46.1222475 10.3222895 1
+"714" "Manerbio, Italia" 45.3534331 10.140792 1
+"715" "Manfredonia, Italia" 41.6307347 15.9165105 3
+"716" "Manoppello, Italia" 42.2576173 14.0612131 1
+"717" "Mantova, Italia" 45.1564168 10.7913751 6
+"718" "Manzano, Italia" 45.9888416 13.3763436 1
+"719" "Manziana, Italia" 42.1318112 12.1265406 1
+"720" "Maranello, Italia" 44.5263024 10.8666834 1
+"721" "Marano Equo, Italia" 41.9926659 13.0146619 1
+"722" "Marano sul Panaro, Italia" 44.4561514 10.9644918 1
+"723" "Marciana Marina, Italia" 42.8054048 10.2013262 1
+"724" "Marciana, Italia" 42.7909288 10.1673758 2
+"725" "Maropati, Italia" 38.4422328 16.0984944 1
+"726" "Marostica, Italia" 45.7459624 11.6583922 2
+"727" "Marradi, Italia" 44.0777573 11.613709 1
+"728" "Marsala, Italia" 37.798045 12.4370156 8
+"729" "Marsciano, Italia" 42.9097248 12.3351398 5
+"730" "Marsicovetere, Italia" 40.3771289 15.8226824 2
+"731" "Marta, Italia" 42.5338958 11.9246989 1
+"732" "Martano, Italia" 40.202493 18.3025894 1
+"733" "Martina Franca, Italia" 40.7028666 17.3392645 3
+"734" "Marzabotto, Italia" 44.3422629 11.2052879 1
+"735" "Masate, Italia" 45.5676967 9.4647754 1
+"736" "Masi Torello, Italia" 44.7941766 11.7973293 1
+"737" "Mason Vicentino, Italia" 45.7182 11.607207 1
+"738" "Massa Lombarda, Italia" 44.4479138 11.822924 2
+"739" "Massa Marittima, Italia" 43.0532504 10.8880322 1
+"740" "Massa Martana, Italia" 42.7766489 12.5232631 2
+"741" "Massa, Italia" 44.0354437 10.1393221 13
+"742" "Massarosa, Italia" 43.8720628 10.3373655 5
+"743" "Matelica, Italia" 43.2511531 13.0091955 1
+"744" "Matera, Italia" 40.666379 16.6043199 14
+"745" "Matino, Italia" 40.0335468 18.1335794 3
+"746" "Mattinata, Italia" 41.7106192 16.0490882 1
+"747" "Mazzè, Italia" 45.2990757 7.9375631 1
+"748" "Medea, Italia" 45.9183304 13.4166141 1
+"749" "Medesano, Italia" 44.7562651 10.140725 1
+"750" "Medolla, Italia" 44.8490459 11.0737761 2
+"751" "Melfi, Italia" 40.9933137 15.6531089 1
+"752" "Melzo, Italia" 45.5031581 9.4220875 1
+"753" "Mentana, Italia" 42.0323743 12.6424255 2
+"754" "Merano, Italia" 46.6712938 11.1525179 4
+"755" "Merate, Italia" 45.6983647 9.4065471 2
+"756" "Mercatello sul Metauro, Italia" 43.6458977 12.3352301 1
+"757" "Mesola, Italia" 44.9219188 12.2297518 2
+"758" "Messina, Italia" 38.1938137 15.5540152 41
+"759" "Mezzanego, Italia" 44.3854228 9.3784675 1
+"760" "Mezzocorona, Italia" 46.2153444 11.1199184 1
+"761" "Mezzolombardo, Italia" 46.2140026 11.0967867 1
+"762" "Miglianico, Italia" 42.3588968 14.2934118 1
+"763" "Miglionico, Italia" 40.569464 16.502066 2
+"764" "Milano, Italia" 45.4654219 9.1859243 564
+"765" "Millesimo, Italia" 44.3627263 8.2077843 2
+"766" "Minerbio, Italia" 44.6268305 11.4921045 2
+"767" "Minturno, Italia" 41.2657426 13.7443642 1
+"768" "Minucciano, Italia" 44.1713076 10.2081593 1
+"769" "Mirabello, Italia" 44.829835 11.4664614 1
+"770" "Mirandola, Italia" 44.8863605 11.0632969 8
+"771" "Misano Adriatico, Italia" 43.982546 12.6946857 1
+"772" "Modena, Italia" 44.6488366 10.9200867 44
+"773" "Modica, Italia" 36.8588355 14.7608152 10
+"774" "Modugno, Italia" 41.0827212 16.7824423 1
+"775" "Moena, Italia" 46.37642 11.6615999 1
+"776" "Moglia, Italia" 44.9338191 10.9120781 1
+"777" "Mogliano Veneto, Italia" 45.5537964 12.2342958 1
+"778" "Mogliano, Italia" 43.185679 13.4761146 1
+"779" "Mogoro, Italia" 39.6823021 8.7751008 1
+"780" "Molfetta, Italia" 41.2027767 16.5987187 1
+"781" "Molinella, Italia" 44.62269 11.6696384 2
+"782" "Moliterno, Italia" 40.2399689 15.8691261 1
+"783" "Mombercelli, Italia" 44.8231136 8.2936895 2
+"784" "Moncalieri, Italia" 44.9983525 7.6802878 2
+"785" "Mondaino, Italia" 43.857429 12.6719206 1
+"786" "Mondolfo, Italia" 43.7535731 13.0957576 1
+"787" "Mondovì, Italia" 44.3953434 7.8196709 1
+"788" "Monleale, Italia" 44.8831652 8.973993 1
+"789" "Monreale, Italia" 38.0814986 13.2889834 1
+"790" "Monselice, Italia" 45.2391132 11.749736 3
+"791" "Monserrato, Italia" 39.2560191 9.1453579 1
+"792" "Monsummano Terme, Italia" 43.86922 10.8146443 1
+"793" "Montagna, Italia" 46.3309953 11.3041374 1
+"794" "Montagnana, Italia" 45.2308365 11.4624091 1
+"795" "Montagne, Italia" 46.0583364 10.7512773 1
+"796" "Montale, Italia" 43.9347424 11.017563 1
+"797" "Montalto delle Marche, Italia" 42.9887851 13.6086733 1
+"798" "Montalto di Castro, Italia" 42.3515659 11.6070098 2
+"799" "Montalto Uffugo, Italia" 39.406743 16.1573277 2
+"800" "Montano Lucino, Italia" 45.7927524 9.0209712 1
+"801" "Monte Argentario, Italia" 42.4255662 11.1185677 1
+"802" "Monte Castello di Vibio, Italia" 42.8379472 12.3482754 1
+"803" "Monte Colombo, Italia" 43.9212698 12.5537316 1
+"804" "Monte Cremasco, Italia" 45.3764918 9.5731263 1
+"805" "Monte Roberto, Italia" 43.4815672 13.1385238 1
+"806" "Monte San Biagio, Italia" 41.3476648 13.3537924 1
+"807" "Monte San Giusto, Italia" 43.2350561 13.5930662 2
+"808" "Monte San Pietrangeli, Italia" 43.1915759 13.5779504 1
+"809" "Monte Sant'Angelo, Italia" 41.7045562 15.9677004 2
+"810" "Monte Urano, Italia" 43.2066782 13.6720629 1
+"811" "Montebelluna, Italia" 45.775491 12.0439904 9
+"812" "Montecassiano, Italia" 43.3644333 13.4374956 1
+"813" "Montecastrilli, Italia" 42.6460124 12.4823614 2
+"814" "Montecatini-Terme, Italia" 43.8808472 10.775436 2
+"815" "Montecchio Maggiore, Italia" 45.4980347 11.4213243 2
+"816" "Montecchio, Italia" 42.6625254 12.2871206 1
+"817" "Montecorvino Rovella, Italia" 40.6971992 14.9740293 1
+"818" "Montefalco, Italia" 42.8892936 12.6502843 3
+"819" "Montefelcino, Italia" 43.7382425 12.8348092 1
+"820" "Montefiascone, Italia" 42.5402375 12.0337914 6
+"821" "Montefiore dell'Aso, Italia" 43.0518505 13.7536385 1
+"822" "Montefiorino, Italia" 44.3570191 10.6218518 1
+"823" "Montefranco, Italia" 42.5978556 12.7651719 3
+"824" "Montegabbione, Italia" 42.9224411 12.0911751 1
+"825" "Montegiorgio, Italia" 43.13272 13.539021 1
+"826" "Montegranaro, Italia" 43.2303873 13.6285253 2
+"827" "Montelabbate, Italia" 43.8497445 12.7891209 3
+"828" "Montelibretti, Italia" 42.1355435 12.7379621 1
+"829" "Montelupo Fiorentino, Italia" 43.7331893 11.0206163 1
+"830" "Montemaggiore al Metauro, Italia" 43.7367408 12.9473755 1
+"831" "Montemaggiore Belsito, Italia" 37.8483464 13.7619309 1
+"832" "Montemonaco, Italia" 42.8985697 13.3324508 1
+"833" "Montemurlo, Italia" 43.9268624 11.0372071 2
+"834" "Monteodorisio, Italia" 42.0897194 14.6521949 1
+"835" "Monteprandone, Italia" 42.9195002 13.8344587 1
+"836" "Montereale, Italia" 42.5251763 13.2438597 1
+"837" "Monterosi, Italia" 42.1981111 12.3063648 1
+"838" "Monterosso al Mare, Italia" 44.1487718 9.6544077 1
+"839" "Monterotondo, Italia" 42.0517785 12.6202874 5
+"840" "Monterubbiano, Italia" 43.0872397 13.7178532 2
+"841" "Montesarchio, Italia" 41.0632282 14.638047 2
+"842" "Montescaglioso, Italia" 40.5573239 16.6642666 1
+"843" "Montese, Italia" 44.2692931 10.9392399 2
+"844" "Montesilvano, Italia" 42.5102079 14.1436996 3
+"845" "Montespertoli, Italia" 43.6444674 11.071105 2
+"846" "Montevago, Italia" 37.7056169 12.9851671 1
+"847" "Montevarchi, Italia" 43.530781 11.5639528 1
+"848" "Monteviale, Italia" 45.5604996 11.4581391 1
+"849" "Monticello Conte Otto, Italia" 45.5951787 11.5802172 2
+"850" "Montichiari, Italia" 45.4148389 10.3928713 3
+"851" "Montignoso, Italia" 43.9828326 10.150538 2
+"852" "Montodine, Italia" 45.2862003 9.7098565 1
+"853" "Montone, Italia" 42.7683364 13.9143287 2
+"854" "Montopoli in Val d'Arno, Italia" 43.6752621 10.7436084 1
+"855" "Montottone, Italia" 43.0623878 13.5881443 1
+"856" "Monza, Italia" 45.5845001 9.2744485 17
+"857" "Morciano di Romagna, Italia" 43.9111534 12.6479422 1
+"858" "Mori, Italia" 45.8513894 10.9787861 1
+"859" "Morlupo, Italia" 42.1489042 12.5030592 1
+"860" "Morro d'Oro, Italia" 42.6643549 13.9179493 2
+"861" "Morrovalle, Italia" 43.3149528 13.5825297 1
+"862" "Moscazzano, Italia" 45.2928219 9.6823678 1
+"863" "Moscufo, Italia" 42.427376 14.0536679 1
+"864" "Motta di Livenza, Italia" 45.7772722 12.6121401 1
+"865" "Mulazzo, Italia" 44.3152594 9.8898793 1
+"866" "Muravera, Italia" 39.4209266 9.5755996 1
+"867" "Mussolente, Italia" 45.7902 11.7987771 1
+"868" "Napoli, Italia" 40.8517746 14.2681244 363
+"869" "Narni, Italia" 42.5176022 12.5156299 8
+"870" "Naro, Italia" 37.2948287 13.7951239 1
+"871" "Nepi, Italia" 42.242991 12.347616 1
+"872" "Nettuno, Italia" 41.4577305 12.6654914 1
+"873" "Nibbiano, Italia" 44.9057246 9.3310912 1
+"874" "Nichelino, Italia" 45.0021286 7.655573 1
+"875" "Nicosia, Italia" 37.7469231 14.3952782 1
+"876" "Niella Tanaro, Italia" 44.4129927 7.9236921 1
+"877" "Nissoria, Italia" 37.6535869 14.4498936 1
+"878" "Nocera Superiore, Italia" 40.7504385 14.6815063 2
+"879" "Nocera Umbra, Italia" 43.1134952 12.7875614 3
+"880" "Noceto, Italia" 44.8092224 10.179127 1
+"881" "Noci, Italia" 40.793902 17.1258599 1
+"882" "Noli, Italia" 44.2070526 8.4141335 1
+"883" "Nonantola, Italia" 44.6788747 11.0411597 2
+"884" "Norcia, Italia" 42.7916746 13.0947335 2
+"885" "Nova Siri, Italia" 40.149093 16.5382768 4
+"886" "Novara, Italia" 45.44693 8.6221612 18
+"887" "Nove, Italia" 45.7255252 11.6797803 1
+"888" "Novellara, Italia" 44.8492956 10.7317542 1
+"889" "Noventa Vicentina, Italia" 45.2907439 11.5392747 1
+"890" "Novi di Modena, Italia" 44.8921534 10.8980348 2
+"891" "Novi Ligure, Italia" 44.7620048 8.7858956 4
+"892" "Nuoro, Italia" 40.3202421 9.3264377 6
+"893" "Nus, Italia" 45.7399332 7.4674717 3
+"894" "Occhiobello, Italia" 44.9209754 11.5795199 2
+"895" "Oderzo, Italia" 45.7797646 12.4973111 1
+"896" "Ofena, Italia" 42.3250007 13.7569979 1
+"897" "Offanengo, Italia" 45.3794736 9.7443909 2
+"898" "Oggiono, Italia" 45.7900132 9.3455127 2
+"899" "Olbia, Italia" 40.9235764 9.4964429 13
+"900" "Olgiate Molgora, Italia" 45.7282023 9.4033542 1
+"901" "Oliena, Italia" 40.2766422 9.401877 1
+"902" "Omegna, Italia" 45.8773469 8.4095977 3
+"903" "Oppeano, Italia" 45.3093916 11.1766591 1
+"904" "Ora, Italia" 46.3481799 11.2990354 1
+"905" "Orbassano, Italia" 45.0057265 7.5353625 1
+"906" "Orbetello, Italia" 42.4396474 11.2124083 3
+"907" "Orciano di Pesaro, Italia" 43.6866321 12.9627754 1
+"908" "Ordona, Italia" 41.3144165 15.6266448 1
+"909" "Origgio, Italia" 45.598457 9.0150839 1
+"910" "Oriolo, Italia" 40.0518376 16.4484262 1
+"911" "Oristano, Italia" 39.906182 8.5883863 3
+"912" "Orosei, Italia" 40.3767849 9.6967464 1
+"913" "Orsara di Puglia, Italia" 41.2781889 15.2667356 1
+"914" "Orsogna, Italia" 42.2186281 14.2817618 1
+"915" "Orte, Italia" 42.4574411 12.3869837 2
+"916" "Ortisei, Italia" 46.5734348 11.6742025 1
+"917" "Ortona, Italia" 42.3522441 14.4028113 4
+"918" "Ortonovo, Italia" 44.0893807 10.0542386 2
+"919" "Ortovero, Italia" 44.0536793 8.0955883 1
+"920" "Orvieto, Italia" 42.7185068 12.1107446 9
+"921" "Orzinuovi, Italia" 45.4014052 9.9248647 1
+"922" "Osimo, Italia" 43.4884025 13.4785426 2
+"923" "Ossi, Italia" 40.6749765 8.5889726 1
+"924" "Ostellato, Italia" 44.7452072 11.9418498 1
+"925" "Ostra, Italia" 43.6141408 13.1569902 1
+"926" "Otricoli, Italia" 42.4220319 12.4776595 2
+"927" "Ovada, Italia" 44.6361571 8.6396762 1
+"928" "Ovindoli, Italia" 42.1389723 13.51743 1
+"929" "Ozieri, Italia" 40.5862496 9.0000601 1
+"930" "Ozzano dell'Emilia, Italia" 44.4482151 11.4672909 1
+"931" "Pace del Mela, Italia" 38.1784438 15.3074158 1
+"932" "Padova, Italia" 45.4020431 11.86231555 125
+"933" "Paduli, Italia" 41.1634284 14.87823 1
+"934" "Paese, Italia" 43.7730609 12.3673331 3
+"935" "Palazzo Pignano, Italia" 45.3913606 9.5707088 1
+"936" "Palazzolo sull'Oglio, Italia" 45.5964593 9.8863806 2
+"937" "Palena, Italia" 41.9766256 14.1324211 1
+"938" "Palermo, Italia" 38.1156879 13.3612671 298
+"939" "Palestrina, Italia" 41.8383438 12.888712 1
+"940" "Palmoli, Italia" 41.9399777 14.5817764 1
+"941" "Palombara Sabina, Italia" 42.0630222 12.770767 1
+"942" "Pandino, Italia" 45.4051588 9.5516252 1
+"943" "Panicale, Italia" 43.0286281 12.0974753 1
+"944" "Paratico, Italia" 45.662001 9.9565226 1
+"945" "Parenti, Italia" 39.1626875 16.4113672 1
+"946" "Parma, Italia" 44.81237375 10.31191925 38
+"947" "Partanna, Italia" 37.724838 12.8871626 1
+"948" "Passignano sul Trasimeno, Italia" 43.1876296 12.1341654 2
+"949" "Patti, Italia" 38.1386229 14.966624 2
+"950" "Paullo, Italia" 45.4167884 9.4080939 1
+"951" "Pavia, Italia" 45.1847248 9.1582069 2
+"952" "Pavullo nel Frignano, Italia" 44.3365935 10.8335633 1
+"953" "Peccioli, Italia" 43.5449624 10.720062 1
+"954" "Pecorara, Italia" 44.8747297 9.3844421 1
+"955" "Pedaso, Italia" 43.0980174 13.8400928 1
+"956" "Pedemonte, Italia" 44.5097854 8.9379324 1
+"957" "Pederobba, Italia" 45.874372 11.9482714 1
+"958" "Pegognaga, Italia" 44.9970333 10.8576798 2
+"959" "Peio, Italia" 46.3627801 10.673533 1
+"960" "Penna in Teverina, Italia" 42.4933212 12.3548194 1
+"961" "Penne, Italia" 42.4569116 13.9281293 1
+"962" "Pergine Valsugana, Italia" 46.06174 11.2369603 1
+"963" "Pergola, Italia" 43.5630132 12.8362079 1
+"964" "Perugia, Italia" 43.1107168 12.3908279 76
+"965" "Pesaro, Italia" 43.9124756 12.9155494 17
+"966" "Pescara, Italia" 42.4617902 14.2160898 47
+"967" "Peschici, Italia" 41.9468998 16.0127759 1
+"968" "Peschiera Borromeo, Italia" 45.4358153 9.3034934 2
+"969" "Peschiera del Garda, Italia" 45.4396385 10.6865449 2
+"970" "Pescia, Italia" 43.9073209 10.6891311 1
+"971" "Pescina, Italia" 42.0253997 13.6505082 1
+"972" "Pescorocchiano, Italia" 42.20826 13.1479158 1
+"973" "Petacciato, Italia" 42.009799 14.8608995 1
+"974" "Petrella Salto, Italia" 42.2943607 13.068755 1
+"975" "Petriano, Italia" 43.7792948 12.7324737 1
+"976" "Petritoli, Italia" 43.0679628 13.6581398 1
+"977" "Piacenza, Italia" 45.0526206 9.6929845 18
+"978" "Piandimeleto, Italia" 43.7260871 12.4128645 1
+"979" "Pianella, Italia" 42.3980361 14.0449937 1
+"980" "Pianengo, Italia" 45.4014304 9.6932052 1
+"981" "Pianezze, Italia" 45.7400482 11.6267208 1
+"982" "Piansano, Italia" 42.5200588 11.8288661 1
+"983" "Piazza al Serchio, Italia" 44.1832842 10.3015761 2
+"984" "Piazzola sul Brenta, Italia" 45.5430589 11.7856169 1
+"985" "Picciano, Italia" 42.4729489 13.9906365 1
+"986" "Pico, Italia" 41.451432 13.5580282 1
+"987" "Piedimonte Matese, Italia" 41.3551823 14.3707386 1
+"988" "Piedimonte San Germano, Italia" 41.4954947 13.750909 1
+"989" "Pienza, Italia" 43.0774495 11.6775951 1
+"990" "Pieranica, Italia" 45.4255108 9.6074912 2
+"991" "Pietrafitta, Italia" 39.2617695 16.3406015 1
+"992" "Pietralunga, Italia" 43.4429522 12.4485893 3
+"993" "Pietrasanta, Italia" 43.9595513 10.2286323 2
+"994" "Pieve di Cadore, Italia" 46.4288309 12.3738983 2
+"995" "Pieve di Cento, Italia" 44.7149262 11.3040605 1
+"996" "Pieve di Soligo, Italia" 45.8999793 12.1735423 1
+"997" "Pieve di Teco, Italia" 44.0465608 7.9149918 1
+"998" "Pieve Tesino, Italia" 46.0677042 11.6127728 1
+"999" "Pievepelago, Italia" 44.2060553 10.6169159 1
+"1000" "Pignola, Italia" 40.5754478 15.7816593 1
+"1001" "Pila, Italia" 45.6833366 7.3093345 1
+"1002" "Pincara, Italia" 44.9981021 11.6140321 1
+"1003" "Pinerolo, Italia" 44.8845906 7.3306676 1
+"1004" "Pineto, Italia" 42.6076493 14.0676742 2
+"1005" "Pinzolo, Italia" 46.1597701 10.7650269 1
+"1006" "Piombino, Italia" 42.9256335 10.5258891 4
+"1007" "Piove di Sacco, Italia" 45.2968571 12.0349785 3
+"1008" "Pisa, Italia" 43.7228386 10.4016888 45
+"1009" "Pisticci, Italia" 40.3901174 16.5528984 4
+"1010" "Pistoia, Italia" 43.9303475 10.9078587 6
+"1011" "Pizzo, Italia" 38.7337855 16.1628921 1
+"1012" "Pizzoli, Italia" 42.4362084 13.2991462 1
+"1013" "Poggibonsi, Italia" 43.4725646 11.146754 1
+"1014" "Poggio a Caiano, Italia" 43.8155303 11.0582771 2
+"1015" "Poggio Mirteto, Italia" 42.2682668 12.6876246 1
+"1016" "Poggio Moiano, Italia" 42.2030175 12.875237 1
+"1017" "Poggio Renatico, Italia" 44.76282 11.4815423 3
+"1018" "Poggio Rusco, Italia" 44.9781374 11.1178906 2
+"1019" "Policoro, Italia" 40.2141054 16.6796558 1
+"1020" "Polistena, Italia" 38.4055976 16.0729747 1
+"1021" "Pollenza, Italia" 43.2702197 13.3466232 1
+"1022" "Pomarico, Italia" 40.5142171 16.5484268 1
+"1023" "Pomezia, Italia" 41.6693373 12.5023439 3
+"1024" "Pomigliano d'Arco, Italia" 40.9101303 14.3829123 1
+"1025" "Pompiano, Italia" 45.4314129 9.9885679 1
+"1026" "Pomponesco, Italia" 44.9297794 10.5974087 1
+"1027" "Ponsacco, Italia" 43.6209981 10.6299395 4
+"1028" "Pont-Saint-Martin, Italia" 45.594928 7.798357 1
+"1029" "Pontassieve, Italia" 43.7747178 11.4384686 1
+"1030" "Ponte Lambro, Italia" 45.8266827 9.2219436 1
+"1031" "Ponte nelle Alpi, Italia" 46.1743916 12.2835826 1
+"1032" "Pontecagnano Faiano, Italia" 40.6448419 14.875444 1
+"1033" "Pontecurone, Italia" 44.956535 8.9285208 1
+"1034" "Pontedera, Italia" 43.6625156 10.6363586 8
+"1035" "Pontinia, Italia" 41.4043988 13.0437426 1
+"1036" "Pontremoli, Italia" 44.3712904 9.8815979 3
+"1037" "Ponzano di Fermo, Italia" 43.1033911 13.6593142 1
+"1038" "Popoli, Italia" 42.1694426 13.8305005 2
+"1039" "Porano, Italia" 42.6868778 12.1028107 1
+"1040" "Pordenone, Italia" 45.9626398 12.6551362 16
+"1041" "Porretta Terme, Italia" 44.1553432 10.9761849 1
+"1042" "Porto Azzurro, Italia" 42.7632329 10.3947803 2
+"1043" "Porto Mantovano, Italia" 45.1894395 10.7899335 1
+"1044" "Porto San Giorgio, Italia" 43.1801759 13.7929636 4
+"1045" "Porto Sant'Elpidio, Italia" 43.2563334 13.7592975 4
+"1046" "Porto Tolle, Italia" 44.9507017 12.3268923 5
+"1047" "Porto Torres, Italia" 40.8333682 8.4022929 1
+"1048" "Porto Viro, Italia" 45.0403366 12.2191758 4
+"1049" "Portoferraio, Italia" 42.8108565 10.3211801 2
+"1050" "Portogruaro, Italia" 45.7805759 12.8373992 3
+"1051" "Portomaggiore, Italia" 44.6976116 11.8056851 2
+"1052" "Portovenere, Italia" 44.0541257 9.836628 3
+"1053" "Potenza Picena, Italia" 43.367398 13.6234038 1
+"1054" "Potenza, Italia" 40.6404067 15.8056041 17
+"1055" "Povegliano Veronese, Italia" 45.3483968 10.8812541 1
+"1056" "Pozza di Fassa, Italia" 46.4306894 11.6857172 1
+"1057" "Pozzoleone, Italia" 45.6498389 11.6777037 1
+"1058" "Pozzolo Formigaro, Italia" 44.7944542 8.7838655 1
+"1059" "Pozzuolo Martesana, Italia" 45.5134545 9.4517284 1
+"1060" "Prato, Italia" 43.8777049 11.102228 34
+"1061" "Pratola Peligna, Italia" 42.1000601 13.8785655 2
+"1062" "Predazzo, Italia" 46.312589 11.602437 1
+"1063" "Premana, Italia" 46.0516219 9.422898 1
+"1064" "Primaluna, Italia" 45.9862043 9.4298026 1
+"1065" "Pula, Italia" 39.0129845 9.0013997 1
+"1066" "Quarrata, Italia" 43.8478987 10.9779669 1
+"1067" "Quart, Italia" 45.7496076 7.4224011 1
+"1068" "Quartu Sant'Elena, Italia" 39.2413493 9.1836462 8
+"1069" "Quinto di Treviso, Italia" 45.6450949 12.1667831 1
+"1070" "Quinto Vicentino, Italia" 45.5773043 11.6251412 1
+"1071" "Quistello, Italia" 45.0092154 10.9805176 1
+"1072" "Ragoli, Italia" 46.0525869 10.7765237 2
+"1073" "Ragusa, Italia" 36.9269273 14.7255129 18
+"1074" "Raiano, Italia" 42.1028572 13.813017 1
+"1075" "Randazzo, Italia" 37.8778815 14.9507373 1
+"1076" "Rapagnano, Italia" 43.1608742 13.5919994 1
+"1077" "Rapallo, Italia" 44.3498211 9.2338889 2
+"1078" "Rapino, Italia" 42.2151872 14.1925815 1
+"1079" "Ravarino, Italia" 44.7232188 11.1017597 1
+"1080" "Ravenna, Italia" 44.4183598 12.2035294 28
+"1081" "Recanati, Italia" 43.4035649 13.5495324 3
+"1082" "Recco, Italia" 44.3614219 9.1437445 2
+"1083" "Regalbuto, Italia" 37.6500078 14.6402566 1
+"1084" "Reggio Calabria, Italia" 38.1113006 15.6472914 18
+"1085" "Reggio Emilia, Italia" 44.6989932 10.6296859 28
+"1086" "Rende, Italia" 39.3317751 16.1839028 2
+"1087" "Rescaldina, Italia" 45.6188903 8.9551104 2
+"1088" "Revere, Italia" 45.0544177 11.1331057 1
+"1089" "Rezzato, Italia" 45.5071605 10.3324897 2
+"1090" "Rho, Italia" 45.5326476 9.0396122 4
+"1091" "Riccione, Italia" 43.999296 12.6555485 3
+"1092" "Riccò del Golfo di Spezia, Italia" 44.1547871 9.7644214 1
+"1093" "Ricengo, Italia" 45.4065897 9.7269695 1
+"1094" "Rieti, Italia" 42.404509 12.8567281 9
+"1095" "Rifiano, Italia" 46.7031005 11.1806751 1
+"1096" "Rignano Flaminio, Italia" 42.2074408 12.4839663 1
+"1097" "Rignano Garganico, Italia" 41.6766631 15.5876232 1
+"1098" "Rimini, Italia" 44.0678288 12.5695158 12
+"1099" "Rio di Pusteria, Italia" 46.7965211 11.6681001 1
+"1100" "Rio Saliceto, Italia" 44.8105999 10.8044093 1
+"1101" "Riolo Terme, Italia" 44.2763833 11.7306901 1
+"1102" "Riomaggiore, Italia" 44.0990492 9.7374851 1
+"1103" "Rionero in Vulture, Italia" 40.9263578 15.6697315 1
+"1104" "Ripa Teatina, Italia" 42.3562729 14.2310059 1
+"1105" "Ripalta Arpina, Italia" 45.3020011 9.7272284 1
+"1106" "Ripalta Cremasca, Italia" 45.3327562 9.6936838 1
+"1107" "Ripalta Guerina, Italia" 45.3059063 9.7052209 1
+"1108" "Ripatransone, Italia" 42.9975635 13.763242 1
+"1109" "Ripe San Ginesio, Italia" 43.1429039 13.3674404 1
+"1110" "Ripi, Italia" 41.6110207 13.4263072 1
+"1111" "Riva del Garda, Italia" 45.8891984 10.8430696 2
+"1112" "Rivalta Bormida, Italia" 44.7102024 8.5497036 1
+"1113" "Rivarolo Canavese, Italia" 45.3319785 7.7231702 1
+"1114" "Rivergaro, Italia" 44.9114455 9.5977961 1
+"1115" "Rivisondoli, Italia" 41.8686442 14.0669139 1
+"1116" "Rivodutri, Italia" 42.5178206 12.8555464 1
+"1117" "Rizziconi, Italia" 38.4139144 15.9592635 1
+"1118" "Rocca di Mezzo, Italia" 42.2055213 13.5236183 1
+"1119" "Rocca Imperiale, Italia" 40.1092175 16.5782726 1
+"1120" "Rocca Pietore, Italia" 46.4343051 11.9779972 1
+"1121" "Rocca Sinibalda, Italia" 42.2748922 12.9256552 1
+"1122" "Roccamena, Italia" 37.8398407 13.1556125 1
+"1123" "Roccapalumba, Italia" 37.80464 13.6374546 1
+"1124" "Roccaspinalveti, Italia" 41.9385163 14.4726897 1
+"1125" "Rocchetta Ligure, Italia" 44.7077299 9.0515278 1
+"1126" "Rodi Garganico, Italia" 41.9298281 15.8860288 1
+"1127" "Rofrano, Italia" 40.2124679 15.4265876 1
+"1128" "Roma, Italia" 41.9027835 12.4963655 1452
+"1129" "Romanengo, Italia" 45.3791701 9.7837004 1
+"1130" "Romano d'Ezzelino, Italia" 45.7962443 11.758273 1
+"1131" "Romans d'Isonzo, Italia" 45.8875151 13.4403541 1
+"1132" "Ronchi dei Legionari, Italia" 45.8276233 13.4994009 1
+"1133" "Ronciglione, Italia" 42.2935977 12.2207219 1
+"1134" "Rosà, Italia" 45.7243552 11.7627979 1
+"1135" "Roseto degli Abruzzi, Italia" 42.6751898 14.0160161 3
+"1136" "Rosignano Marittimo, Italia" 43.4091705 10.4721192 13
+"1137" "Rosolina, Italia" 45.0761113 12.2421766 4
+"1138" "Rotondella, Italia" 40.1703314 16.524359 1
+"1139" "Rottofreno, Italia" 45.0579443 9.5501181 1
+"1140" "Rovato, Italia" 45.5654088 9.9999307 3
+"1141" "Rovereto, Italia" 45.89096 11.0401399 5
+"1142" "Rovescala, Italia" 45.0119972 9.3493642 1
+"1143" "Rovigo, Italia" 45.0698118 11.7902158 13
+"1144" "Rubano, Italia" 45.4267419 11.7858762 1
+"1145" "Rubiera, Italia" 44.6529827 10.7806381 1
+"1146" "Ruffrè-Mendola, Italia" 46.4185966 11.2018922 1
+"1147" "Russi, Italia" 44.3730042 12.0315405 1
+"1148" "Ruvo di Puglia, Italia" 41.1172905 16.4837252 1
+"1149" "Saint-Christophe, Italia" 45.7464576 7.3535417 1
+"1150" "Saint-Pierre, Italia" 45.7101357 7.2319773 1
+"1151" "Salandra, Italia" 40.5264467 16.3196274 1
+"1152" "Salcedo, Italia" 45.758497 11.5645006 1
+"1153" "Sale, Italia" 44.9853971 8.8087191 1
+"1154" "Salerno, Italia" 40.6824408 14.7680961 30
+"1155" "Salò, Italia" 45.608392 10.5104769 1
+"1156" "Salorno, Italia" 46.2393458 11.2181898 1
+"1157" "Salvirola, Italia" 45.3555583 9.7806039 1
+"1158" "San Bellino, Italia" 45.02782 11.5900298 1
+"1159" "San Benedetto del Tronto, Italia" 42.9609785 13.8746469 25
+"1160" "San Benedetto Po, Italia" 45.0391137 10.9281971 1
+"1161" "San Bonifacio, Italia" 45.3953713 11.2742002 3
+"1162" "San Candido, Italia" 46.7300428 12.2805214 1
+"1163" "San Casciano in Val di Pesa, Italia" 43.6583548 11.1887674 4
+"1164" "San Cesario sul Panaro, Italia" 44.5621048 11.0348074 1
+"1165" "San Clemente, Italia" 41.0621694 14.3660983 1
+"1166" "San Demetrio ne' Vestini, Italia" 42.2892088 13.553942 1
+"1167" "San Donà di Piave, Italia" 45.630335 12.5660992 2
+"1168" "San Donaci, Italia" 40.4475135 17.9225386 1
+"1169" "San Donato Milanese, Italia" 45.4092402 9.2684867 1
+"1170" "San Felice sul Panaro, Italia" 44.8459364 11.140309 1
+"1171" "San Ferdinando di Puglia, Italia" 41.3017572 16.0691481 1
+"1172" "San Ferdinando, Italia" 38.4827377 15.9190746 1
+"1173" "San Gavino Monreale, Italia" 39.5482904 8.7894377 1
+"1174" "San Gemini, Italia" 42.6116752 12.547853 2
+"1175" "San Gervasio Bresciano, Italia" 45.3062252 10.148419 1
+"1176" "San Giorgio del Sannio, Italia" 41.0612165 14.8511356 1
+"1177" "San Giorgio di Piano, Italia" 44.6463865 11.3765276 1
+"1178" "San Giorgio Lucano, Italia" 40.1144897 16.3911227 2
+"1179" "San Giovanni in Marignano, Italia" 43.9401583 12.7093224 1
+"1180" "San Giovanni in Persiceto, Italia" 44.6405433 11.1893053 3
+"1181" "San Giovanni Lupatoto, Italia" 45.3823658 11.0444905 3
+"1182" "San Giovanni Rotondo, Italia" 41.70659 15.7291788 3
+"1183" "San Giovanni Teatino, Italia" 42.4094917 14.2016145 3
+"1184" "San Giovanni Valdarno, Italia" 43.5724868 11.5230045 4
+"1185" "San Giuliano di Puglia, Italia" 41.6865459 14.9633217 1
+"1186" "San Giuliano Terme, Italia" 43.7596639 10.4418645 9
+"1187" "San Giuseppe Jato, Italia" 37.9690953 13.1818344 1
+"1188" "San Giustino, Italia" 43.5517952 12.1724518 7
+"1189" "San Lazzaro di Savena, Italia" 44.47292 11.402955 1
+"1190" "San Leucio del Sannio, Italia" 41.0763345 14.7580187 1
+"1191" "San Marcello Pistoiese, Italia" 44.055936 10.7959128 3
+"1192" "San Marco in Lamis, Italia" 41.7124428 15.6380651 2
+"1193" "San Martino Buon Albergo, Italia" 45.42318 11.094291 3
+"1194" "San Martino di Venezze, Italia" 45.1303458 11.8743045 1
+"1195" "San Martino in Pensilis, Italia" 41.870085 15.0109437 1
+"1196" "San Miniato, Italia" 43.6829641 10.8551196 2
+"1197" "San Nicandro Garganico, Italia" 41.8345783 15.571685 1
+"1198" "San Paolo di Jesi, Italia" 43.4545723 13.1725079 1
+"1199" "San Pietro in Cariano, Italia" 45.5166316 10.8861431 1
+"1200" "San Pietro in Casale, Italia" 44.7005679 11.4040012 1
+"1201" "San Possidonio, Italia" 44.8917802 10.9948976 1
+"1202" "San Quirico d'Orcia, Italia" 43.0581804 11.6060636 1
+"1203" "San Salvo, Italia" 42.0440032 14.7339367 2
+"1204" "San Severino Lucano, Italia" 40.0212986 16.1353439 1
+"1205" "San Severino Marche, Italia" 43.2304153 13.1653804 1
+"1206" "San Severo, Italia" 41.6854203 15.3795161 5
+"1207" "San Teodoro, Italia" 40.7722837 9.6695458 1
+"1208" "San Valentino in Abruzzo Citeriore, Italia" 42.2349763 13.9875885 1
+"1209" "San Venanzo, Italia" 42.868647 12.2692168 1
+"1210" "San Vincenzo, Italia" 43.1023803 10.5393513 1
+"1211" "San Vito Chietino, Italia" 42.2887222 14.4410347 1
+"1212" "San Vito di Cadore, Italia" 46.4592116 12.2068564 1
+"1213" "San Zenone degli Ezzelini, Italia" 45.7819972 11.8366769 1
+"1214" "Sandrigo, Italia" 45.6592011 11.6029356 1
+"1215" "Sanguinetto, Italia" 45.1806521 11.1526237 1
+"1216" "Sanluri, Italia" 39.5628683 8.8998948 1
+"1217" "Sanremo, Italia" 43.8159671 7.7760567 1
+"1218" "Sansepolcro, Italia" 43.5726206 12.1382607 1
+"1219" "Sant'Agostino, Italia" 44.7936965 11.381872 3
+"1220" "Sant'Angelo in Vado, Italia" 43.6628283 12.4135307 1
+"1221" "Sant'Antioco, Italia" 39.0689813 8.454395 1
+"1222" "Sant'Arcangelo, Italia" 40.2566824 16.2726573 1
+"1223" "Sant'Egidio alla Vibrata, Italia" 42.8259319 13.7153702 2
+"1224" "Sant'Elpidio a Mare, Italia" 43.2319055 13.6838931 2
+"1225" "Sant'Ilario d'Enza, Italia" 44.7606905 10.4512 1
+"1226" "Sant'Ippolito, Italia" 43.6872273 12.8714624 1
+"1227" "Santa Croce Camerina, Italia" 36.8284661 14.5241063 2
+"1228" "Santa Croce sull'Arno, Italia" 43.7109248 10.783619 5
+"1229" "Santa Fiora, Italia" 42.8324199 11.5846144 1
+"1230" "Santa Giusta, Italia" 39.8759953 8.610892 1
+"1231" "Santa Maria a Monte, Italia" 43.6987603 10.6894335 1
+"1232" "Santa Teresa Gallura, Italia" 41.238987 9.1880794 1
+"1233" "Santarcangelo di Romagna, Italia" 44.0633602 12.4523883 1
+"1234" "Santeramo in Colle, Italia" 40.7918083 16.7528602 1
+"1235" "Santhià, Italia" 45.3669051 8.1713889 1
+"1236" "Santo Stefano d'Aveto, Italia" 44.5458001 9.4510577 1
+"1237" "Santo Stefano di Magra, Italia" 44.1613458 9.9156487 2
+"1238" "Sappada, Italia" 46.5671086 12.6856811 1
+"1239" "Sarcedo, Italia" 45.7079596 11.5257984 1
+"1240" "Sarezzano, Italia" 44.8674459 8.9150713 1
+"1241" "Sarezzo, Italia" 45.6521677 10.20055 1
+"1242" "Sarnonico, Italia" 46.4186469 11.1414686 1
+"1243" "Sarzana, Italia" 44.111424 9.9631215 5
+"1244" "Sassari, Italia" 40.7259269 8.5556826 21
+"1245" "Sassello, Italia" 44.4795088 8.490099 1
+"1246" "Sassetta, Italia" 43.1285376 10.6439632 1
+"1247" "Sasso Marconi, Italia" 44.3987645 11.248204 1
+"1248" "Sassoferrato, Italia" 43.4308068 12.8576733 1
+"1249" "Sassuolo, Italia" 44.54433 10.7847741 6
+"1250" "Savignano sul Panaro, Italia" 44.4795975 11.0375086 3
+"1251" "Savignano sul Rubicone, Italia" 44.0936826 12.4007392 1
+"1252" "Savigno, Italia" 44.3934295 11.0756697 1
+"1253" "Savogna d'Isonzo, Italia" 45.9027039 13.5720463 1
+"1254" "Savona, Italia" 44.2975603 8.4645 18
+"1255" "Scafa, Italia" 42.2671997 13.9959055 1
+"1256" "Scandiano, Italia" 44.5982342 10.6909273 1
+"1257" "Scandicci, Italia" 43.7542169 11.1922839 4
+"1258" "Scandriglia, Italia" 42.1642825 12.8416364 1
+"1259" "Scanno, Italia" 41.8999822 13.8841364 1
+"1260" "Scheggia e Pascelupo, Italia" 43.4030599 12.666326 1
+"1261" "Schiavi di Abruzzo, Italia" 41.8142575 14.4858317 1
+"1262" "Schiavon, Italia" 45.6978742 11.6442557 2
+"1263" "Schio, Italia" 45.7170517 11.3597702 5
+"1264" "Scicli, Italia" 36.7932122 14.706973 4
+"1265" "Scigliano, Italia" 39.1287294 16.3070479 1
+"1266" "Segrate, Italia" 45.4920004 9.2981309 1
+"1267" "Selargius, Italia" 39.2596768 9.1629372 2
+"1268" "Senigallia, Italia" 43.7197926 13.2152224 2
+"1269" "Senise, Italia" 40.1490282 16.2874477 2
+"1270" "Sennori, Italia" 40.7918676 8.5916976 1
+"1271" "Senorbì, Italia" 39.5335326 9.1303962 1
+"1272" "Seravezza, Italia" 43.9941134 10.2300959 1
+"1273" "Sergnano, Italia" 45.4266784 9.7021404 2
+"1274" "Sermide, Italia" 45.0039927 11.2991526 1
+"1275" "Serra San Quirico, Italia" 43.4477565 13.0148453 1
+"1276" "Serramanna, Italia" 39.4225136 8.921749 1
+"1277" "Serrungarina, Italia" 43.746413 12.8749166 1
+"1278" "Sesta Godano, Italia" 44.2918374 9.6735746 1
+"1279" "Sesto Fiorentino, Italia" 43.8320966 11.2042694 3
+"1280" "Sesto San Giovanni, Italia" 45.5328245 9.2256875 3
+"1281" "Sestola, Italia" 44.2300851 10.770168 1
+"1282" "Sestri Levante, Italia" 44.2763654 9.4008281 6
+"1283" "Sestu, Italia" 39.3007903 9.0919429 1
+"1284" "Settimo Torinese, Italia" 45.139586 7.7709784 1
+"1285" "Siderno, Italia" 38.2693662 16.2983085 1
+"1286" "Siena, Italia" 43.257221 11.254167 21
+"1287" "Signa, Italia" 43.7823245 11.0932465 1
+"1288" "Silandro, Italia" 46.6276771 10.7736888 1
+"1289" "Silvano d'Orba, Italia" 44.6875666 8.6728923 1
+"1290" "Silvi, Italia" 42.5435931 14.1262485 2
+"1291" "Siniscola, Italia" 40.5766271 9.6935658 1
+"1292" "Sinnai, Italia" 39.3028794 9.1980134 1
+"1293" "Siracusa, Italia" 37.0754739 15.2865861 18
+"1294" "Solarolo, Italia" 44.3603703 11.8434912 1
+"1295" "Soliera, Italia" 44.7396413 10.9231459 2
+"1296" "Sommacampagna, Italia" 45.4028205 10.84281 1
+"1297" "Sona, Italia" 45.4354197 10.8296004 5
+"1298" "Soncino, Italia" 45.3997761 9.8733888 1
+"1299" "Sondrio, Italia" 46.1698583 9.8787674 2
+"1300" "Sora, Italia" 41.7188539 13.6130491 1
+"1301" "Soriano nel Cimino, Italia" 42.4206239 12.2366793 2
+"1302" "Sorso, Italia" 40.7968026 8.5750336 1
+"1303" "Sospirolo, Italia" 46.1429856 12.0738993 1
+"1304" "Sossano, Italia" 45.3598687 11.516615 1
+"1305" "Sovramonte, Italia" 46.0562524 11.7767459 1
+"1306" "Spello, Italia" 42.987653 12.6711898 3
+"1307" "Spera, Italia" 46.0695816 11.5089601 1
+"1308" "Sperlonga, Italia" 41.2636741 13.4271414 1
+"1309" "Spilamberto, Italia" 44.5318187 11.0204491 2
+"1310" "Spinetoli, Italia" 42.8890359 13.7726632 2
+"1311" "Spino d'Adda, Italia" 45.4033847 9.4927442 1
+"1312" "Spoleto, Italia" 42.7305146 12.7344664 9
+"1313" "Spoltore, Italia" 42.4545184 14.1388165 2
+"1314" "Spotorno, Italia" 44.2305714 8.4234964 1
+"1315" "Spresiano, Italia" 45.7801113 12.2595261 1
+"1316" "Staffolo, Italia" 43.4328579 13.1836705 1
+"1317" "Stanghella, Italia" 45.1345887 11.7568833 2
+"1318" "Stazzano, Italia" 44.7228551 8.866777 1
+"1319" "Stienta, Italia" 44.9426363 11.5421154 1
+"1320" "Stigliano, Italia" 40.402571 16.2303229 1
+"1321" "Stimigliano, Italia" 42.3009899 12.5628575 1
+"1322" "Stornarella, Italia" 41.2556926 15.7287247 1
+"1323" "Strambino, Italia" 45.3817209 7.8848302 1
+"1324" "Strigno, Italia" 46.069304 11.5211585 1
+"1325" "Stroncone, Italia" 42.4997405 12.663682 2
+"1326" "Subiaco, Italia" 41.9246531 13.0936685 2
+"1327" "Sulmona, Italia" 42.0481782 13.9289304 5
+"1328" "Sutri, Italia" 42.2439027 12.2185381 1
+"1329" "Suvereto, Italia" 43.0766833 10.6784441 1
+"1330" "Suzzara, Italia" 44.9918729 10.742497 2
+"1331" "Taggia, Italia" 43.8621898 7.8539797 1
+"1332" "Tagliacozzo, Italia" 42.0686395 13.2517751 1
+"1333" "Taglio di Po, Italia" 45.005969 12.2080923 3
+"1334" "Taranto, Italia" 40.4643606 17.2470303 28
+"1335" "Tarquinia, Italia" 42.2541846 11.7575684 1
+"1336" "Taurisano, Italia" 39.9580705 18.2130205 1
+"1337" "Tavagnacco, Italia" 46.1274647 13.2109516 1
+"1338" "Tavarnelle Val di Pesa, Italia" 43.5636041 11.1744774 3
+"1339" "Telve di Sopra, Italia" 46.0715472 11.4716445 1
+"1340" "Telve, Italia" 46.0701235 11.480232 1
+"1341" "Tempio Pausania, Italia" 40.9031356 9.104067 1
+"1342" "Teramo, Italia" 42.6611431 13.6986639 20
+"1343" "Termeno sulla Strada del Vino, Italia" 46.3408096 11.2421663 1
+"1344" "Termoli, Italia" 42.0005331 14.9952839 3
+"1345" "Terni, Italia" 42.5636168 12.6426604 42
+"1346" "Terracina, Italia" 41.2963728 13.2332657 2
+"1347" "Terralba, Italia" 39.7186234 8.6338801 2
+"1348" "Terricciola, Italia" 43.5223235 10.6760014 2
+"1349" "Tezze sul Brenta, Italia" 45.6821344 11.7067322 3
+"1350" "Thiene, Italia" 45.7070408 11.4773537 4
+"1351" "Thiesi, Italia" 40.5268616 8.7201054 1
+"1352" "Tione di Trento, Italia" 46.0313416 10.7227283 2
+"1353" "Tires, Italia" 46.4692739 11.5236422 1
+"1354" "Tivoli, Italia" 41.959817 12.8022261 3
+"1355" "Tocco da Casauria, Italia" 42.2150125 13.913079 1
+"1356" "Todi, Italia" 42.7819352 12.4065686 11
+"1357" "Tolentino, Italia" 43.2088828 13.2847426 2
+"1358" "Tollo, Italia" 42.3406519 14.3199137 1
+"1359" "Tombolo, Italia" 45.6462542 11.8313053 1
+"1360" "Tonezza del Cimone, Italia" 45.8576435 11.3456668 1
+"1361" "Torcegno, Italia" 46.0747453 11.4514617 1
+"1362" "Torgiano, Italia" 43.0273158 12.432391 2
+"1363" "Torino di Sangro, Italia" 42.1852556 14.53967 1
+"1364" "Torino, Italia" 45.070312 7.6868565 379
+"1365" "Torlino Vimercati, Italia" 45.4180676 9.5962166 1
+"1366" "Torre De' Passeri, Italia" 42.2424095 13.9309607 1
+"1367" "Torre San Patrizio, Italia" 43.1832953 13.6127886 1
+"1368" "Torremaggiore, Italia" 41.6868319 15.2925532 1
+"1369" "Torri di Quartesolo, Italia" 45.5232619 11.6090001 2
+"1370" "Torricella Peligna, Italia" 42.0237281 14.2602515 1
+"1371" "Tortolì, Italia" 39.9265743 9.6560733 1
+"1372" "Tortona, Italia" 44.8952122 8.8633326 13
+"1373" "Tortoreto, Italia" 42.8032722 13.9184365 2
+"1374" "Trani, Italia" 41.2774857 16.4178334 2
+"1375" "Trapani, Italia" 38.0176177 12.537202 16
+"1376" "Trasacco, Italia" 41.9600762 13.536615 1
+"1377" "Travagliato, Italia" 45.5233421 10.0833398 1
+"1378" "Trecenta, Italia" 45.0344466 11.4635199 1
+"1379" "Treia, Italia" 43.3091771 13.3128863 3
+"1380" "Trento, Italia" 46.0700915 11.1197626 24
+"1381" "Trenzano, Italia" 45.4772154 10.012745 2
+"1382" "Tresana, Italia" 44.2545728 9.9117791 1
+"1383" "Trescore Cremasco, Italia" 45.4008867 9.6301242 2
+"1384" "Trevi, Italia" 42.8776412 12.7488082 2
+"1385" "Treviglio, Italia" 45.5211505 9.5951189 1
+"1386" "Treviso, Italia" 45.66008285 12.2225625 34
+"1387" "Trezzo sull'Adda, Italia" 45.6105975 9.5156844 1
+"1388" "Tricarico, Italia" 40.6178282 16.1472745 1
+"1389" "Trichiana, Italia" 46.073713 12.1319927 1
+"1390" "Trieste, Italia" 45.6495264 13.7768182 93
+"1391" "Troina, Italia" 37.7847915 14.6000721 1
+"1392" "Tubre, Italia" 46.6413313 10.462814 1
+"1393" "Tuoro sul Trasimeno, Italia" 43.2079079 12.0705893 1
+"1394" "Tuscania, Italia" 42.4185731 11.8703089 2
+"1395" "Udine, Italia" 46.0500968 13.211101 18
+"1396" "Umbertide, Italia" 43.3055726 12.3278681 5
+"1397" "Uras, Italia" 39.6982865 8.7012549 1
+"1398" "Urbania, Italia" 43.6712887 12.5180644 1
+"1399" "Urbe, Italia" 44.4862783 8.5906379 1
+"1400" "Urbino, Italia" 43.7262567 12.6365633 2
+"1401" "Vado Ligure, Italia" 44.2560606 8.3910127 2
+"1402" "Vaiano Cremasco, Italia" 45.3698664 9.5891245 1
+"1403" "Vaiano, Italia" 43.9672094 11.1240322 2
+"1404" "Valdastico, Italia" 45.8847836 11.363216 1
+"1405" "Valderice, Italia" 38.0369287 12.6121285 1
+"1406" "Valdobbiadene, Italia" 45.9012514 11.9958811 1
+"1407" "Valentano, Italia" 42.5664938 11.8183991 1
+"1408" "Valenza, Italia" 45.0122876 8.644111 5
+"1409" "Valfabbrica, Italia" 43.1588812 12.6011644 1
+"1410" "Vallefoglia, Italia" 43.8269356 12.8015701 1
+"1411" "Vallerano, Italia" 42.3835265 12.2638953 1
+"1412" "Valsinni, Italia" 40.170216 16.4417041 2
+"1413" "Valtopina, Italia" 43.05875 12.7543697 2
+"1414" "Valtournenche, Italia" 45.8772069 7.6222043 2
+"1415" "Varazze, Italia" 44.3594336 8.5773126 1
+"1416" "Varese Ligure, Italia" 44.3779295 9.5912347 1
+"1417" "Varese, Italia" 45.8205989 8.8250576 10
+"1418" "Vasto, Italia" 42.1045588 14.7058711 5
+"1419" "Vecchiano, Italia" 43.7833377 10.3889267 2
+"1420" "Velletri, Italia" 41.6868422 12.7785347 1
+"1421" "Venezia, Italia" 45.4408474 12.3155151 70
+"1422" "Venosa, Italia" 40.9607672 15.815423 1
+"1423" "Ventimiglia, Italia" 43.7912366 7.6075864 2
+"1424" "Verbania, Italia" 45.9281827 8.5554714 8
+"1425" "Vercelli, Italia" 45.3202272 8.4185735 1
+"1426" "Vernazza, Italia" 44.1349211 9.6849935 1
+"1427" "Vernio, Italia" 44.0474839 11.1531349 1
+"1428" "Veroli, Italia" 41.6960182 13.4128915 2
+"1429" "Verona, Italia" 45.4383842 10.9916215 172
+"1430" "Verrès, Italia" 45.6624352 7.6938048 1
+"1431" "Verucchio, Italia" 43.9834232 12.4224544 1
+"1432" "Vescovana, Italia" 45.1378421 11.7118284 2
+"1433" "Vetralla, Italia" 42.318861 12.058817 1
+"1434" "Vezzano Ligure, Italia" 44.1401297 9.8905904 2
+"1435" "Viadana, Italia" 44.9286236 10.5229153 2
+"1436" "Viareggio, Italia" 43.8657267 10.2513103 10
+"1437" "Vicenza, Italia" 45.5454787 11.5354214 31
+"1438" "Vico del Gargano, Italia" 41.8959988 15.9596192 1
+"1439" "Vicopisano, Italia" 43.6991454 10.5831013 4
+"1440" "Vieste, Italia" 41.8824764 16.1767489 1
+"1441" "Vietri di Potenza, Italia" 40.5997554 15.50683 1
+"1442" "Vigarano Mainarda, Italia" 44.8397163 11.4997056 1
+"1443" "Vigevano, Italia" 45.3218787 8.8466726 1
+"1444" "Viggianello, Italia" 39.9732066 16.0843941 1
+"1445" "Vignanello, Italia" 42.3837449 12.2781586 1
+"1446" "Vignola, Italia" 44.4835861 11.0131217 6
+"1447" "Vignole Borbera, Italia" 44.7085223 8.8913688 1
+"1448" "Vigo di Fassa, Italia" 46.4208634 11.6748775 1
+"1449" "Vigonza, Italia" 45.4438896 11.9843835 1
+"1450" "Villa Agnedo, Italia" 46.0529543 11.5282331 1
+"1451" "Villa Bartolomea, Italia" 45.1587793 11.3530197 2
+"1452" "Villa Santa Maria, Italia" 41.9513556 14.3529886 1
+"1453" "Villacidro, Italia" 39.462863 8.7411909 1
+"1454" "Villadose, Italia" 45.0735131 11.8901571 1
+"1455" "Villafranca di Verona, Italia" 45.3552546 10.8474267 7
+"1456" "Villafranca in Lunigiana, Italia" 44.2951567 9.9506484 1
+"1457" "Villalvernia, Italia" 44.8175538 8.8549686 1
+"1458" "Villanova Mondovì, Italia" 44.3485142 7.7674773 1
+"1459" "Villaromagnano, Italia" 44.8493286 8.8884228 1
+"1460" "Villasor, Italia" 39.3810158 8.9386497 1
+"1461" "Villaverla, Italia" 45.651134 11.4994824 1
+"1462" "Villesse, Italia" 45.856601 13.4435611 1
+"1463" "Villorba, Italia" 45.7409001 12.2326716 1
+"1464" "Vinci, Italia" 43.7841765 10.9244269 4
+"1465" "Vipiteno, Italia" 46.8926725 11.4336186 1
+"1466" "Virgilio, Italia" 45.1136006 10.7827168 1
+"1467" "Vische, Italia" 45.3341418 7.9471795 1
+"1468" "Viterbo, Italia" 42.42810675 12.08492015 19
+"1469" "Vittoria, Italia" 36.9520998 14.5372653 11
+"1470" "Vittorito, Italia" 42.1267808 13.8181093 1
+"1471" "Volpiano, Italia" 45.2009438 7.7796572 1
+"1472" "Volta Mantovana, Italia" 45.3226773 10.6594539 1
+"1473" "Volterra, Italia" 43.399395 10.8660333 1
+"1474" "Zanè, Italia" 45.7198787 11.4530564 1
+"1475" "Zevio, Italia" 45.3717016 11.1335491 1
+"1476" "Ziano Piacentino, Italia" 45.0020526 9.4019414 1
+"1477" "Zola Predosa, Italia" 44.4933675 11.2116338 1
+"1478" "Zoldo Alto, Italia" 46.3849066 12.1161156 1
