@@ -1,4 +1,4 @@
-# Maps of Italy
+# Mapping Italy
 This repository contains R code which creates maps of Italy. Dependencies include rgeos, sp, rgdal, and ggplot2. 
 
 # Examples
