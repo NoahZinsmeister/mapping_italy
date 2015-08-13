@@ -22,4 +22,4 @@ The script is relatively straightforward.
 
 1. Clone this git repository.
 2. If desired, replace `bankdensity.txt` and/or `bankcities.txt` with your own Italian statistical data.
-3. Run mapper.R (I used RStudio for this).
+3. Run `mapper.R` (I used RStudio for this).
